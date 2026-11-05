@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#07111c">
+  <title>BRO 671 Current Roster</title>
+  <meta name="description" content="Current Kingdom 671 Brotherhood roster and Swordland participant dashboard">
+  <link rel="stylesheet" href="styles.css?v=6">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="crest">BRO</span><div><strong>Brotherhood</strong><small>Kingdom 671 · Current roster</small></div></div>
+    <div class="fresh"><span></span><b>Fresh API snapshot</b><time id="retrievedAt">Loading…</time></div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div><p class="eyebrow">ALLIANCE COMMAND</p><h1>The current roster, at a glance.</h1><p>Search every member, compare power and rankings, or filter the players selected for Swordland.</p></div>
+      <div class="hero-mark">671</div>
+    </section>
+
+    <section class="metrics" id="metrics" aria-label="Alliance summary"></section>
+
+    <nav class="data-tabs" aria-label="Dashboard sections">
+      <button class="tab active" data-tab="overview">Overview</button>
+      <button class="tab" data-tab="trials">Mystic & Trials</button>
+      <button class="tab" data-tab="heroes">Arena Heroes</button>
+      <button class="tab" data-tab="gear">Governor Gear</button>
+      <button class="tab" data-tab="rankings">All Rankings</button>
+    </nav>
+
+    <section class="workspace">
+      <div class="toolbar">
+        <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search player" autocomplete="off"></label>
+        <div class="filters">
+          <select id="rankFilter" aria-label="Alliance rank"><option value="all">All ranks</option><option value="Leader">Leader</option><option value="R4">R4</option><option value="R3">R3</option><option value="R2">R2</option><option value="R1">R1</option></select>
+          <select id="eventFilter" aria-label="Event participation"><option value="all">All players</option><option value="swordland">Swordland participants</option></select>
+          <div class="mobile-sort" aria-label="Sort players">
+            <label for="mobileSort">Sort by</label>
+            <select id="mobileSort"></select>
+            <button id="mobileDir" type="button" aria-label="Change sort direction">Descending ↓</button>
+          </div>
+        </div>
+      </div>
+      <div id="sectionIntro" class="section-intro"></div>
+      <div id="tableHead" class="table-head"></div>
+      <div id="playerList" class="player-list" aria-live="polite"></div>
+      <div class="list-footer"><span id="resultCount"></span><span>Click a player for full detail</span></div>
+    </section>
+  </main>
+
+  <dialog id="profileDialog">
+    <div class="dialog-shell">
+      <button id="closeDialog" class="close" aria-label="Close profile">×</button>
+      <div id="profileContent"></div>
+    </div>
+  </dialog>
+
+  <script src="app.js?v=8"></script>
+</body>
+</html>
