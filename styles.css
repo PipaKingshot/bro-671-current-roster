@@ -100,3 +100,5 @@ body{overflow-x:hidden}
 .signup-row:has(input:checked) em{color:var(--gold)}
 @media(max-width:800px){.signup-list{grid-template-columns:1fr}}
 @media(max-width:640px){.swordland-setup{padding:8px}.swordland-actions{align-items:flex-start;flex-direction:column}.swordland-actions>div:last-child{width:100%}.swordland-actions button:first-child{flex:1}.signup-row{grid-template-columns:auto 40px minmax(0,1fr)}.signup-row em{display:none}}
+.trials-head,.trials-row{grid-template-columns:minmax(200px,1.5fr) repeat(7,minmax(90px,1fr))}
+@media(max-width:800px){.trials-row{display:grid;grid-template-columns:1fr 1fr}.trials-row .player{grid-column:1/-1}}
