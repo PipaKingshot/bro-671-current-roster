@@ -89,16 +89,20 @@ body{overflow-x:hidden}
 .swordland-actions button:first-child{border-color:#8d6e31;background:var(--gold);color:#07111c}
 .swordland-actions button:disabled{cursor:not-allowed;opacity:.42}
 .signup-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
-.signup-row{display:grid;grid-template-columns:auto 42px minmax(0,1fr) auto;align-items:center;gap:11px;min-width:0;padding:12px;border:1px solid var(--line);border-radius:11px;background:#0a1621;cursor:pointer;transition:.16s}
+.signup-row{display:grid;grid-template-columns:minmax(0,1fr) auto auto;align-items:center;gap:10px;min-width:0;padding:12px;border:1px solid var(--line);border-radius:11px;background:#0a1621;transition:.16s}
 .signup-row:hover{border-color:#3d5c74;background:#102131}
-.signup-row:has(input:checked){border-color:#8d6e31;background:linear-gradient(145deg,rgba(229,182,83,.1),#0a1621 58%)}
-.signup-row input{width:20px;height:20px;margin:0;accent-color:var(--gold)}
-.signup-row>span{min-width:0}
+.signup-row.is-joiner{border-color:#8d6e31;background:linear-gradient(145deg,rgba(229,182,83,.1),#0a1621 58%)}
+.signup-row.is-substitute{border-color:#39758a;background:linear-gradient(145deg,rgba(70,183,207,.1),#0a1621 58%)}
+.signup-player{display:flex;align-items:center;gap:11px;min-width:0}
+.signup-player>span{min-width:0}
 .signup-row b{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .signup-row small{display:block;margin-top:4px;color:var(--muted);font-size:10px}
-.signup-row em{color:var(--muted);font-size:10px;font-style:normal;font-weight:800;text-transform:uppercase;letter-spacing:.08em}
-.signup-row:has(input:checked) em{color:var(--gold)}
+.role-choice{display:flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:8px;padding:8px;color:var(--muted);font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;cursor:pointer}
+.role-choice input{width:18px;height:18px;margin:0;accent-color:var(--gold)}
+.role-choice:has(input:checked){color:var(--gold);border-color:#8d6e31;background:rgba(229,182,83,.08)}
+.role-choice.substitute input{accent-color:var(--cyan)}
+.role-choice.substitute:has(input:checked){color:var(--cyan);border-color:#39758a;background:rgba(70,183,207,.08)}
 @media(max-width:800px){.signup-list{grid-template-columns:1fr}}
-@media(max-width:640px){.swordland-setup{padding:8px}.swordland-actions{align-items:flex-start;flex-direction:column}.swordland-actions>div:last-child{width:100%}.swordland-actions button:first-child{flex:1}.signup-row{grid-template-columns:auto 40px minmax(0,1fr)}.signup-row em{display:none}}
+@media(max-width:640px){.swordland-setup{padding:8px}.swordland-actions{align-items:flex-start;flex-direction:column}.swordland-actions>div:last-child{width:100%}.swordland-actions button:first-child{flex:1}.signup-row{grid-template-columns:1fr 1fr}.signup-player{grid-column:1/-1}.role-choice{justify-content:center}}
 .trials-head,.trials-row{grid-template-columns:minmax(200px,1.5fr) repeat(7,minmax(90px,1fr))}
 @media(max-width:800px){.trials-row{display:grid;grid-template-columns:1fr 1fr}.trials-row .player{grid-column:1/-1}}
