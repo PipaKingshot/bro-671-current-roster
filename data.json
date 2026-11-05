@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-05T22:28:23Z",
+  "retrieved_at": "2026-11-05T23:40:31Z",
   "source": "Authorized API snapshot — privacy-filtered public fields",
   "request": {
     "kingdom": 671,
@@ -10,8 +10,8 @@
       "name": "Brotherhood",
       "abbr": "BRO",
       "kid": 671,
-      "power": 30522566156,
-      "count": 89,
+      "power": 33439880155,
+      "count": 90,
       "leader_name": "Captain Bryce",
       "power_rank": 4
     }
@@ -180,7 +180,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 2,
@@ -345,7 +346,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 3,
@@ -510,7 +512,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 4,
@@ -675,7 +678,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 5,
@@ -840,7 +844,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 6,
@@ -1005,7 +1010,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 7,
@@ -1170,7 +1176,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 8,
@@ -1335,7 +1342,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 9,
@@ -1500,7 +1508,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 10,
@@ -1665,7 +1674,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 11,
@@ -1885,7 +1895,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 12,
@@ -2050,7 +2061,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 13,
@@ -2215,7 +2227,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 14,
@@ -2380,7 +2393,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 15,
@@ -2545,7 +2559,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 16,
@@ -2710,7 +2725,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 17,
@@ -2875,7 +2891,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 18,
@@ -3040,7 +3057,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 19,
@@ -3205,7 +3223,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 20,
@@ -3370,7 +3389,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 21,
@@ -3535,7 +3555,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 22,
@@ -3755,7 +3776,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 23,
@@ -3920,7 +3942,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 24,
@@ -4085,7 +4108,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 25,
@@ -4250,7 +4274,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 26,
@@ -4415,7 +4440,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 27,
@@ -4635,7 +4661,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 28,
@@ -4800,7 +4827,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 29,
@@ -4965,7 +4993,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 30,
@@ -5130,7 +5159,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 31,
@@ -5295,7 +5325,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 32,
@@ -5460,7 +5491,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 33,
@@ -5625,7 +5657,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 34,
@@ -5790,7 +5823,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 35,
@@ -5955,7 +5989,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 36,
@@ -6120,7 +6155,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 37,
@@ -6285,7 +6321,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 38,
@@ -6450,7 +6487,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 39,
@@ -6615,7 +6653,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 40,
@@ -6780,7 +6819,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 41,
@@ -6945,7 +6985,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 42,
@@ -7110,7 +7151,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 43,
@@ -7330,7 +7372,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 44,
@@ -7495,7 +7538,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 45,
@@ -7660,7 +7704,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 46,
@@ -7825,7 +7870,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 47,
@@ -7990,7 +8036,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 48,
@@ -8155,7 +8202,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 49,
@@ -8375,7 +8423,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 50,
@@ -8540,7 +8589,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 51,
@@ -8705,7 +8755,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 52,
@@ -8870,7 +8921,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 53,
@@ -9035,7 +9087,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 54,
@@ -9200,7 +9253,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 55,
@@ -9365,7 +9419,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 56,
@@ -9530,7 +9585,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 57,
@@ -9695,7 +9751,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 58,
@@ -9860,7 +9917,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 59,
@@ -10025,7 +10083,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 60,
@@ -10245,7 +10304,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 61,
@@ -10465,7 +10525,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 62,
@@ -10685,7 +10746,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 63,
@@ -10850,7 +10912,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 64,
@@ -11015,7 +11078,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 65,
@@ -11180,7 +11244,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "joiner"
     },
     {
       "public_id": 66,
@@ -11345,7 +11410,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 67,
@@ -11565,7 +11631,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 68,
@@ -11730,7 +11797,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 69,
@@ -11895,7 +11963,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 70,
@@ -12115,7 +12184,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 71,
@@ -12280,7 +12350,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 72,
@@ -12500,7 +12571,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 73,
@@ -12665,7 +12737,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 74,
@@ -12830,7 +12903,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 75,
@@ -12995,7 +13069,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 76,
@@ -13160,7 +13235,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 77,
@@ -13325,7 +13401,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 78,
@@ -13490,7 +13567,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 79,
@@ -13655,7 +13733,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 80,
@@ -13820,7 +13899,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 81,
@@ -13985,7 +14065,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 82,
@@ -14150,7 +14231,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 83,
@@ -14370,7 +14452,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": true,
+      "swordland_role": "substitute"
     },
     {
       "public_id": 84,
@@ -14590,7 +14673,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 85,
@@ -14755,7 +14839,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 86,
@@ -14975,7 +15060,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 87,
@@ -15195,7 +15281,8 @@
           ]
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 88,
@@ -15320,7 +15407,8 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
     },
     {
       "public_id": 89,
@@ -15429,7 +15517,174 @@
           "items": []
         }
       },
-      "swordland": false
+      "swordland": false,
+      "swordland_role": ""
+    },
+    {
+      "public_id": 90,
+      "profile": {
+        "player": {
+          "nick_name": "Bowser",
+          "kid": 671,
+          "power": 243834282,
+          "town_center_level": 60,
+          "kills": 587032,
+          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/03/KE50kl_1780513721.png",
+          "alliance": {
+            "abbr": "BRO",
+            "name": "Brotherhood",
+            "rank": 1,
+            "rank_label": "R1"
+          }
+        },
+        "ranks": {
+          "power_rank": 384,
+          "kills_rank": 759,
+          "town_center_rank": 400,
+          "migrant_score": 674032,
+          "migrant_rank": 353,
+          "mystic_trial": 1420,
+          "mystic_rank": 337,
+          "leaderboards": [
+            {
+              "name": "Personal Power",
+              "value": 243834282,
+              "value_label": null,
+              "kingdom_rank": 384,
+              "kingdom_rank_label": "#384",
+              "rank_type": 3
+            },
+            {
+              "name": "Kill Count",
+              "value": 587032,
+              "value_label": null,
+              "kingdom_rank": 759,
+              "kingdom_rank_label": "#759",
+              "rank_type": 4
+            },
+            {
+              "name": "Town Center Level",
+              "value": 60,
+              "value_label": null,
+              "kingdom_rank": 400,
+              "kingdom_rank_label": "#400",
+              "rank_type": 5
+            },
+            {
+              "name": "Migrant Score",
+              "value": 674032,
+              "value_label": null,
+              "kingdom_rank": 353,
+              "kingdom_rank_label": "#353",
+              "rank_type": 19
+            },
+            {
+              "name": "Mystic Trial",
+              "value": 1420,
+              "value_label": null,
+              "kingdom_rank": 337,
+              "kingdom_rank_label": "#337",
+              "rank_type": 20
+            },
+            {
+              "name": "Coliseum",
+              "value": 10363,
+              "value_label": "37-3",
+              "kingdom_rank": null,
+              "kingdom_rank_label": "100+",
+              "rank_type": 21
+            },
+            {
+              "name": "Forest of Life",
+              "value": 20205,
+              "value_label": "21-5",
+              "kingdom_rank": null,
+              "kingdom_rank_label": "100+",
+              "rank_type": 22
+            },
+            {
+              "name": "Crystal Cave",
+              "value": 30175,
+              "value_label": "18-5",
+              "kingdom_rank": null,
+              "kingdom_rank_label": "100+",
+              "rank_type": 23
+            },
+            {
+              "name": "Knowledge Nexus",
+              "value": 40105,
+              "value_label": "11-5",
+              "kingdom_rank": null,
+              "kingdom_rank_label": "100+",
+              "rank_type": 24
+            },
+            {
+              "name": "Molten Fort",
+              "value": 50210,
+              "value_label": "21-10",
+              "kingdom_rank": null,
+              "kingdom_rank_label": "100+",
+              "rank_type": 25
+            },
+            {
+              "name": "Radiant Spire",
+              "value": 60362,
+              "value_label": "37-2",
+              "kingdom_rank": null,
+              "kingdom_rank_label": "100+",
+              "rank_type": 26
+            }
+          ]
+        },
+        "heroes": [
+          {
+            "name": "Alcar",
+            "level": 80,
+            "stars": 4,
+            "star_label": "4-Star (Tier 1)",
+            "icon": "/assets/icons/hero_headpic_50023.png",
+            "position": 1
+          },
+          {
+            "name": "Long Fei",
+            "level": 80,
+            "stars": 5,
+            "star_label": "5-Star",
+            "icon": "/assets/icons/hero_headpic_50024.png",
+            "position": 2
+          },
+          {
+            "name": "Sophia",
+            "level": 80,
+            "stars": 4,
+            "star_label": "4-Star",
+            "icon": "/assets/icons/hero_headpic_50030.png",
+            "position": 3
+          },
+          {
+            "name": "Rosa",
+            "level": 80,
+            "stars": 5,
+            "star_label": "5-Star",
+            "icon": "/assets/icons/hero_headpic_50022.png",
+            "position": 4
+          },
+          {
+            "name": "Wee & Woo",
+            "level": 80,
+            "stars": 4,
+            "star_label": "4-Star",
+            "icon": "/assets/icons/hero_headpic_50033.png",
+            "position": 5
+          }
+        ],
+        "gov_gear": {
+          "hidden": true,
+          "items": []
+        }
+      },
+      "swordland": true,
+      "swordland_role": "substitute"
     }
   ]
 }
