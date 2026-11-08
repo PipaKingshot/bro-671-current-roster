@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#07111c">
   <title>BRO 671 Dashboard</title>
   <meta name="description" content="Kingdom 671 Brotherhood roster and Swordland planning dashboard">
-  <link rel="stylesheet" href="styles.css?v=10">
+  <link rel="stylesheet" href="styles.css?v=11">
 </head>
 <body>
   <header class="topbar">
@@ -28,7 +28,8 @@
       <button class="tab" data-tab="heroes">Arena Heroes</button>
       <button class="tab" data-tab="gear">Governor Gear</button>
       <button class="tab" data-tab="rankings">All Rankings</button>
-      <button class="tab" data-tab="swordland">Swordland Setup <span id="swordlandTabCount" class="tab-count">0</span></button>
+      <button class="tab" data-tab="swordland">Swordland Summit <span id="swordlandTabCount" class="tab-count">0</span></button>
+      <button class="tab" data-tab="tri">Tri-Alliance <span class="lock-mark">🔒</span></button>
     </nav>
 
     <section class="workspace">
@@ -59,6 +60,20 @@
     </div>
   </dialog>
 
-  <script src="app.js?v=13"></script>
+  <dialog id="plannerDialog" class="planner-dialog">
+    <form id="plannerForm" class="dialog-shell password-shell">
+      <button id="closePlannerDialog" class="close" type="button" aria-label="Close">×</button>
+      <p class="eyebrow">PRIVATE PLANNING</p>
+      <h2 id="plannerDialogTitle">Unlock planner</h2>
+      <p id="plannerDialogText">Enter your planner password. It is never uploaded or stored as readable text.</p>
+      <label class="password-field"><span>Password</span><input id="plannerPassword" type="password" minlength="8" required autocomplete="current-password"></label>
+      <label id="plannerConfirmWrap" class="password-field" hidden><span>Confirm password</span><input id="plannerConfirm" type="password" minlength="8" autocomplete="new-password"></label>
+      <p id="plannerError" class="form-error" role="alert"></p>
+      <button id="plannerSubmit" class="primary-action" type="submit">Unlock</button>
+      <small class="privacy-note">Assignments are encrypted and remain only in this browser. Losing the password means the plan cannot be recovered.</small>
+    </form>
+  </dialog>
+
+  <script src="app.js?v=14"></script>
 </body>
 </html>
