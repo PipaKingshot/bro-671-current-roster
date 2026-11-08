@@ -4,19 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#07111c">
-  <title>BRO 671 Current Roster</title>
-  <meta name="description" content="Current Kingdom 671 Brotherhood roster and Swordland participant dashboard">
-  <link rel="stylesheet" href="styles.css?v=9">
+  <title>BRO 671 Dashboard</title>
+  <meta name="description" content="Kingdom 671 Brotherhood roster and Swordland planning dashboard">
+  <link rel="stylesheet" href="styles.css?v=10">
 </head>
 <body>
   <header class="topbar">
-    <div class="brand"><span class="crest">BRO</span><div><strong>Brotherhood</strong><small>Kingdom 671 · Current roster</small></div></div>
+    <div class="brand"><span class="crest">BRO</span><div><strong>Brotherhood</strong><small>Kingdom 671 · Roster and Swordland</small></div></div>
     <div class="fresh"><span></span><b>Fresh API snapshot</b><time id="retrievedAt">Loading…</time></div>
   </header>
 
   <main>
     <section class="hero">
-      <div><p class="eyebrow">ALLIANCE COMMAND</p><h1>The current roster, at a glance.</h1><p>Search every member, compare power and rankings, or filter the players selected for Swordland.</p></div>
+      <div><p class="eyebrow">ALLIANCE COMMAND</p><h1>One roster. One dashboard.</h1><p>Compare the current team, distinguish original BRO members from INK arrivals, and plan the Swordland Summit lineup.</p></div>
       <div class="hero-mark">671</div>
     </section>
 
@@ -36,6 +36,7 @@
         <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search player" autocomplete="off"></label>
         <div class="filters">
           <select id="rankFilter" aria-label="Alliance rank"><option value="all">All ranks</option><option value="Leader">Leader</option><option value="R4">R4</option><option value="R3">R3</option><option value="R2">R2</option><option value="R1">R1</option></select>
+          <select id="originFilter" aria-label="Player origin"><option value="all">BRO + INK</option><option value="BRO">Original BRO</option><option value="INK">INK arrivals</option></select>
           <select id="eventFilter" aria-label="Event participation"><option value="all">All players</option><option value="swordland">All Swordland</option><option value="joiner">Swordland joiners</option><option value="substitute">Swordland substitutes</option></select>
           <div class="mobile-sort" aria-label="Sort players">
             <label for="mobileSort">Sort by</label>
@@ -58,6 +59,6 @@
     </div>
   </dialog>
 
-  <script src="app.js?v=12"></script>
+  <script src="app.js?v=13"></script>
 </body>
 </html>
