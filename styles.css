@@ -110,6 +110,7 @@ body{overflow-x:hidden}
 .origin-badge{display:inline-flex;align-items:center;vertical-align:1px;margin-left:5px;padding:2px 6px;border:1px solid;border-radius:999px;font:800 9px/1.2 Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:.08em}
 .origin-bro{color:var(--gold);border-color:#8d6e31;background:rgba(229,182,83,.09)}
 .origin-ink{color:var(--cyan);border-color:#39758a;background:rgba(70,183,207,.09)}
+.origin-ex{color:#ff9a92;border-color:#7b4643;background:rgba(255,112,105,.08)}
 .swordland-actions{flex-wrap:wrap}
 .swordland-sort{display:flex!important;align-items:center;gap:6px;padding:4px;border:1px solid var(--line);border-radius:9px;background:#08141f}
 .swordland-sort .sort-head{padding:7px 9px;border-radius:6px}

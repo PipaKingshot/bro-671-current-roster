@@ -1,0 +1,46 @@
+name: Refresh BRO roster
+
+on:
+  schedule:
+    - cron: "0 10 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-bro-roster
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out dashboard
+        uses: actions/checkout@v4
+
+      - name: Refresh privacy-filtered roster
+        env:
+          MIGHTPULSE_API_KEY: ${{ secrets.MIGHTPULSE_API_KEY }}
+        run: python3 scripts/refresh_roster.py
+
+      - name: Validate public data
+        run: |
+          python3 -m json.tool data.json >/dev/null
+          node --check app.js
+          if grep -Eq '"(governor_id|fid|uid|last_active_at|last_login|online|api_key)"[[:space:]]*:' data.json; then
+            echo "A forbidden private field reached data.json" >&2
+            exit 1
+          fi
+
+      - name: Publish changed snapshot
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "No roster changes to publish."
+            exit 0
+          fi
+          git config user.name "BRO roster bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json
+          git commit -m "Refresh weekly BRO roster"
+          git push

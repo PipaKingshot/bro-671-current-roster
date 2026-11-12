@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#07111c">
   <title>BRO 671 Dashboard</title>
   <meta name="description" content="Kingdom 671 Brotherhood roster and Swordland planning dashboard">
-  <link rel="stylesheet" href="styles.css?v=18">
+  <link rel="stylesheet" href="styles.css?v=19">
 </head>
 <body>
   <header class="topbar">
@@ -37,7 +37,7 @@
         <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search player" autocomplete="off"></label>
         <div class="filters">
           <select id="rankFilter" aria-label="Alliance rank"><option value="all">All ranks</option><option value="Leader">Leader</option><option value="R4">R4</option><option value="R3">R3</option><option value="R2">R2</option><option value="R1">R1</option></select>
-          <select id="originFilter" aria-label="Player origin"><option value="all">BRO + INK</option><option value="BRO">Original BRO</option><option value="INK">INK arrivals</option></select>
+          <select id="originFilter" aria-label="Player origin and membership"><option value="all">Current BRO + INK</option><option value="BRO">Current original BRO</option><option value="INK">INK arrivals</option><option value="former">Former BRO</option></select>
           <select id="eventFilter" aria-label="Event participation"><option value="all">All players</option><option value="swordland">All Swordland</option><option value="joiner">Swordland joiners</option><option value="substitute">Swordland substitutes</option></select>
           <div class="mobile-sort" aria-label="Sort players">
             <label for="mobileSort">Sort by</label>
@@ -74,6 +74,6 @@
     </form>
   </dialog>
 
-  <script src="app.js?v=22"></script>
+  <script src="app.js?v=23"></script>
 </body>
 </html>
