@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-12T16:40:34.439724Z",
+  "retrieved_at": "2026-11-12T16:50:02.385148Z",
   "source": "MightPulse authorized API — privacy-filtered public fields",
   "request": {
     "kingdom": 671,
@@ -23,15 +23,20 @@
   "refresh_meta": {
     "current_bro": 90,
     "tracked_ink_guests": 14,
-    "former_bro": 21,
-    "new_players": 34
+    "former_bro": 13,
+    "new_players": 0
   },
   "origin_tags": {
     "BRO": [
+      1,
       2,
+      3,
       4,
+      5,
       7,
       10,
+      11,
+      12,
       14,
       16,
       17,
@@ -55,6 +60,7 @@
       44,
       45,
       46,
+      47,
       48,
       49,
       51,
@@ -70,9 +76,11 @@
       62,
       63,
       64,
+      65,
       66,
       68,
       69,
+      70,
       73,
       76,
       77,
@@ -82,20 +90,13 @@
       82,
       83,
       86,
-      92,
       93,
       94,
       95,
-      96,
-      97,
-      98,
-      99,
       100,
       101,
-      102,
       103,
       104,
-      105,
       106,
       107,
       108,
@@ -106,7 +107,6 @@
       113,
       114,
       115,
-      116,
       117,
       118,
       119,
@@ -136,22 +136,14 @@
       91
     ],
     "EX_BRO": [
-      1,
-      3,
-      5,
       6,
-      11,
-      12,
       15,
       21,
       23,
       31,
       36,
-      47,
       50,
-      65,
       67,
-      70,
       72,
       75,
       84,
@@ -162,15 +154,17 @@
   "players": [
     {
       "public_id": 1,
+      "identity_key": "h1_f251c8a57e975403e48e08cb94ad3c41040d00fed524794877beb2f380062e89",
       "origin": "BRO",
+      "membership": "current",
       "profile": {
         "player": {
-          "nick_name": "Captain Bryce",
+          "nick_name": "Bank Heist Bryce",
           "kid": 671,
-          "power": 901328718,
+          "power": 907626042,
           "town_center_level": 70,
-          "kills": 76266499,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/07/9DKpp8_1794068566.png",
+          "kills": 76268259,
+          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/09/9DKpp8_1794199160.png",
           "alliance": {
             "abbr": "BRO",
             "name": "Brotherhood",
@@ -180,16 +174,16 @@
         },
         "ranks": {
           "power_rank": 5,
-          "kills_rank": 33,
-          "town_center_rank": 11,
-          "migrant_score": 2929293,
-          "migrant_rank": 8,
-          "mystic_trial": 2923,
-          "mystic_rank": 10,
+          "kills_rank": 41,
+          "town_center_rank": 12,
+          "migrant_score": 2949831,
+          "migrant_rank": 10,
+          "mystic_trial": 2963,
+          "mystic_rank": 12,
           "leaderboards": [
             {
               "name": "Personal Power",
-              "value": 901328718,
+              "value": 907626042,
               "value_label": null,
               "kingdom_rank": 5,
               "kingdom_rank_label": "#5",
@@ -197,82 +191,82 @@
             },
             {
               "name": "Kill Count",
-              "value": 76266499,
+              "value": 76268259,
               "value_label": null,
-              "kingdom_rank": 33,
-              "kingdom_rank_label": "#33",
+              "kingdom_rank": 41,
+              "kingdom_rank_label": "#41",
               "rank_type": 4
             },
             {
               "name": "Town Center Level",
               "value": 70,
               "value_label": null,
-              "kingdom_rank": 11,
-              "kingdom_rank_label": "#11",
+              "kingdom_rank": 12,
+              "kingdom_rank_label": "#12",
               "rank_type": 5
             },
             {
               "name": "Migrant Score",
-              "value": 2929293,
+              "value": 2949831,
               "value_label": null,
-              "kingdom_rank": 8,
-              "kingdom_rank_label": "#8",
+              "kingdom_rank": 10,
+              "kingdom_rank_label": "#10",
               "rank_type": 19
             },
             {
               "name": "Mystic Trial",
-              "value": 2923,
+              "value": 2963,
               "value_label": null,
-              "kingdom_rank": 10,
-              "kingdom_rank_label": "#10",
+              "kingdom_rank": 12,
+              "kingdom_rank_label": "#12",
               "rank_type": 20
             },
             {
               "name": "Coliseum",
               "value": 10679,
               "value_label": "68-9",
-              "kingdom_rank": 18,
-              "kingdom_rank_label": "#18",
+              "kingdom_rank": 28,
+              "kingdom_rank_label": "#28",
               "rank_type": 21
             },
             {
               "name": "Forest of Life",
-              "value": 20334,
-              "value_label": "34-4",
-              "kingdom_rank": 10,
-              "kingdom_rank_label": "#10",
+              "value": 20368,
+              "value_label": "37-8",
+              "kingdom_rank": 7,
+              "kingdom_rank_label": "#7",
               "rank_type": 22
             },
             {
               "name": "Crystal Cave",
-              "value": 30409,
-              "value_label": "41-9",
-              "kingdom_rank": 6,
-              "kingdom_rank_label": "#6",
+              "value": 30415,
+              "value_label": "42-5",
+              "kingdom_rank": 7,
+              "kingdom_rank_label": "#7",
               "rank_type": 23
             },
             {
               "name": "Knowledge Nexus",
               "value": 40270,
               "value_label": "27-10",
-              "kingdom_rank": 30,
-              "kingdom_rank_label": "#30",
+              "kingdom_rank": 36,
+              "kingdom_rank_label": "#36",
               "rank_type": 24
             },
             {
               "name": "Molten Fort",
               "value": 50465,
               "value_label": "47-5",
-              "kingdom_rank": 6,
-              "kingdom_rank_label": "#6",
+              "kingdom_rank": 8,
+              "kingdom_rank_label": "#8",
               "rank_type": 25
             },
             {
               "name": "Radiant Spire",
               "value": 60766,
               "value_label": "77-6",
-              "kingdom_rank": 12,
-              "kingdom_rank_label": "#12",
+              "kingdom_rank": 16,
+              "kingdom_rank_label": "#16",
               "rank_type": 26
             }
           ]
@@ -321,13 +315,12 @@
         ],
         "gov_gear": {
           "hidden": true,
+          "message": "This player is hiding their governor gear.",
           "items": []
         }
       },
       "swordland": false,
-      "swordland_role": "",
-      "membership": "former",
-      "identity_key": "h1_f251c8a57e975403e48e08cb94ad3c41040d00fed524794877beb2f380062e89"
+      "swordland_role": ""
     },
     {
       "public_id": 2,
@@ -501,14 +494,16 @@
     },
     {
       "public_id": 3,
+      "identity_key": "h1_44792842c3b72e566bb249d978ffc98f683ea23b20f56308b79a4b9e783f573d",
       "origin": "BRO",
+      "membership": "current",
       "profile": {
         "player": {
-          "nick_name": "AllTheCookiesZRF",
+          "nick_name": "PuZRFssy",
           "kid": 671,
-          "power": 592014552,
+          "power": 598130822,
           "town_center_level": 70,
-          "kills": 170205002,
+          "kills": 170208502,
           "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/10/10/DQL3E6_1791645743.png",
           "alliance": {
             "abbr": "BRO",
@@ -518,100 +513,100 @@
           }
         },
         "ranks": {
-          "power_rank": 39,
-          "kills_rank": 9,
-          "town_center_rank": 17,
-          "migrant_score": 3071256,
-          "migrant_rank": 6,
-          "mystic_trial": 3126,
-          "mystic_rank": 7,
+          "power_rank": 41,
+          "kills_rank": 13,
+          "town_center_rank": 18,
+          "migrant_score": 3084900,
+          "migrant_rank": 7,
+          "mystic_trial": 3177,
+          "mystic_rank": 9,
           "leaderboards": [
             {
               "name": "Personal Power",
-              "value": 592014552,
+              "value": 598130822,
               "value_label": null,
-              "kingdom_rank": 39,
-              "kingdom_rank_label": "#39",
+              "kingdom_rank": 41,
+              "kingdom_rank_label": "#41",
               "rank_type": 3
             },
             {
               "name": "Kill Count",
-              "value": 170205002,
+              "value": 170208502,
               "value_label": null,
-              "kingdom_rank": 9,
-              "kingdom_rank_label": "#9",
+              "kingdom_rank": 13,
+              "kingdom_rank_label": "#13",
               "rank_type": 4
             },
             {
               "name": "Town Center Level",
               "value": 70,
               "value_label": null,
-              "kingdom_rank": 17,
-              "kingdom_rank_label": "#17",
+              "kingdom_rank": 18,
+              "kingdom_rank_label": "#18",
               "rank_type": 5
             },
             {
               "name": "Migrant Score",
-              "value": 3071256,
+              "value": 3084900,
               "value_label": null,
-              "kingdom_rank": 6,
-              "kingdom_rank_label": "#6",
+              "kingdom_rank": 7,
+              "kingdom_rank_label": "#7",
               "rank_type": 19
             },
             {
               "name": "Mystic Trial",
-              "value": 3126,
+              "value": 3177,
               "value_label": null,
-              "kingdom_rank": 7,
-              "kingdom_rank_label": "#7",
+              "kingdom_rank": 9,
+              "kingdom_rank_label": "#9",
               "rank_type": 20
             },
             {
               "name": "Coliseum",
-              "value": 10771,
-              "value_label": "78-1",
-              "kingdom_rank": 5,
-              "kingdom_rank_label": "#5",
+              "value": 10817,
+              "value_label": "82-7",
+              "kingdom_rank": 6,
+              "kingdom_rank_label": "#6",
               "rank_type": 21
             },
             {
               "name": "Forest of Life",
-              "value": 20346,
-              "value_label": "35-6",
-              "kingdom_rank": 6,
-              "kingdom_rank_label": "#6",
+              "value": 20347,
+              "value_label": "35-7",
+              "kingdom_rank": 9,
+              "kingdom_rank_label": "#9",
               "rank_type": 22
             },
             {
               "name": "Crystal Cave",
-              "value": 30398,
-              "value_label": "40-8",
-              "kingdom_rank": 9,
-              "kingdom_rank_label": "#9",
+              "value": 30402,
+              "value_label": "41-2",
+              "kingdom_rank": 10,
+              "kingdom_rank_label": "#10",
               "rank_type": 23
             },
             {
               "name": "Knowledge Nexus",
               "value": 40299,
               "value_label": "30-9",
-              "kingdom_rank": 8,
-              "kingdom_rank_label": "#8",
+              "kingdom_rank": 10,
+              "kingdom_rank_label": "#10",
               "rank_type": 24
             },
             {
               "name": "Molten Fort",
               "value": 50434,
               "value_label": "44-4",
-              "kingdom_rank": 10,
-              "kingdom_rank_label": "#10",
+              "kingdom_rank": 12,
+              "kingdom_rank_label": "#12",
               "rank_type": 25
             },
             {
               "name": "Radiant Spire",
-              "value": 60830,
-              "value_label": "83-10",
-              "kingdom_rank": 4,
-              "kingdom_rank_label": "#4",
+              "value": 60878,
+              "value_label": "88-8",
+              "kingdom_rank": 7,
+              "kingdom_rank_label": "#7",
               "rank_type": 26
             }
           ]
@@ -660,13 +655,12 @@
         ],
         "gov_gear": {
           "hidden": true,
+          "message": "This player is hiding their governor gear.",
           "items": []
         }
       },
       "swordland": false,
-      "swordland_role": "",
-      "membership": "former",
-      "identity_key": "h1_44792842c3b72e566bb249d978ffc98f683ea23b20f56308b79a4b9e783f573d"
+      "swordland_role": ""
     },
     {
       "public_id": 4,
@@ -840,15 +834,17 @@
     },
     {
       "public_id": 5,
+      "identity_key": "h1_1a68c2ca450ef386724ef01631c5ef583aa5e2c27ad75b5543ee9fde11960970",
       "origin": "BRO",
+      "membership": "current",
       "profile": {
         "player": {
-          "nick_name": "Hedgehog Lala",
+          "nick_name": "LaIa",
           "kid": 671,
-          "power": 573750819,
+          "power": 576214296,
           "town_center_level": 70,
           "kills": 40166674,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/07/JNMp2K_1794011166.png",
+          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/09/JNMp2K_1794206494.png",
           "alliance": {
             "abbr": "BRO",
             "name": "Brotherhood",
@@ -857,84 +853,84 @@
           }
         },
         "ranks": {
-          "power_rank": 46,
-          "kills_rank": 78,
-          "town_center_rank": 65,
-          "migrant_score": 1533321,
-          "migrant_rank": 76,
-          "mystic_trial": 2203,
-          "mystic_rank": 70,
+          "power_rank": 49,
+          "kills_rank": 84,
+          "town_center_rank": 75,
+          "migrant_score": 1538189,
+          "migrant_rank": 85,
+          "mystic_trial": 2253,
+          "mystic_rank": 76,
           "leaderboards": [
             {
               "name": "Personal Power",
-              "value": 573750819,
+              "value": 576214296,
               "value_label": null,
-              "kingdom_rank": 46,
-              "kingdom_rank_label": "#46",
+              "kingdom_rank": 49,
+              "kingdom_rank_label": "#49",
               "rank_type": 3
             },
             {
               "name": "Kill Count",
               "value": 40166674,
               "value_label": null,
-              "kingdom_rank": 78,
-              "kingdom_rank_label": "#78",
+              "kingdom_rank": 84,
+              "kingdom_rank_label": "#84",
               "rank_type": 4
             },
             {
               "name": "Town Center Level",
               "value": 70,
               "value_label": null,
-              "kingdom_rank": 65,
-              "kingdom_rank_label": "#65",
+              "kingdom_rank": 75,
+              "kingdom_rank_label": "#75",
               "rank_type": 5
             },
             {
               "name": "Migrant Score",
-              "value": 1533321,
+              "value": 1538189,
               "value_label": null,
-              "kingdom_rank": 76,
-              "kingdom_rank_label": "#76",
+              "kingdom_rank": 85,
+              "kingdom_rank_label": "#85",
               "rank_type": 19
             },
             {
               "name": "Mystic Trial",
-              "value": 2203,
+              "value": 2253,
               "value_label": null,
-              "kingdom_rank": 70,
-              "kingdom_rank_label": "#70",
+              "kingdom_rank": 76,
+              "kingdom_rank_label": "#76",
               "rank_type": 20
             },
             {
               "name": "Coliseum",
-              "value": 10520,
-              "value_label": "52-10",
-              "kingdom_rank": 71,
-              "kingdom_rank_label": "#71",
+              "value": 10569,
+              "value_label": "57-9",
+              "kingdom_rank": 69,
+              "kingdom_rank_label": "#69",
               "rank_type": 21
             },
             {
               "name": "Forest of Life",
-              "value": 20263,
-              "value_label": "27-3",
-              "kingdom_rank": 36,
-              "kingdom_rank_label": "#36",
+              "value": 20264,
+              "value_label": "27-4",
+              "kingdom_rank": 45,
+              "kingdom_rank_label": "#45",
               "rank_type": 22
             },
             {
               "name": "Crystal Cave",
               "value": 30267,
               "value_label": "27-7",
-              "kingdom_rank": 58,
-              "kingdom_rank_label": "#58",
+              "kingdom_rank": 68,
+              "kingdom_rank_label": "#68",
               "rank_type": 23
             },
             {
               "name": "Knowledge Nexus",
               "value": 40215,
               "value_label": "22-5",
-              "kingdom_rank": 97,
-              "kingdom_rank_label": "#97",
+              "kingdom_rank": null,
+              "kingdom_rank_label": "100+",
               "rank_type": 24
             },
             {
@@ -947,10 +943,10 @@
             },
             {
               "name": "Radiant Spire",
-              "value": 60585,
-              "value_label": "59-5",
-              "kingdom_rank": 56,
-              "kingdom_rank_label": "#56",
+              "value": 60629,
+              "value_label": "63-9",
+              "kingdom_rank": 74,
+              "kingdom_rank_label": "#74",
               "rank_type": 26
             }
           ]
@@ -999,13 +995,12 @@
         ],
         "gov_gear": {
           "hidden": true,
+          "message": "This player is hiding their governor gear.",
           "items": []
         }
       },
       "swordland": false,
-      "swordland_role": "",
-      "membership": "former",
-      "identity_key": "h1_1a68c2ca450ef386724ef01631c5ef583aa5e2c27ad75b5543ee9fde11960970"
+      "swordland_role": ""
     },
     {
       "public_id": 6,
@@ -1856,15 +1851,17 @@
     },
     {
       "public_id": 11,
+      "identity_key": "h1_ca613c5336cab78145689df44b5062af5efc93e7ccb2acba60d81831095dff09",
       "origin": "BRO",
+      "membership": "current",
       "profile": {
         "player": {
-          "nick_name": "Middle D Fae",
+          "nick_name": "MD1 ʚïɞ",
           "kid": 671,
-          "power": 498627362,
+          "power": 520045847,
           "town_center_level": 70,
           "kills": 25608367,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/06/E0j6RW_1794001933.png",
+          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/09/E0j6RW_1794267677.png",
           "alliance": {
             "abbr": "BRO",
             "name": "Brotherhood",
@@ -1873,74 +1870,74 @@
           }
         },
         "ranks": {
-          "power_rank": 94,
-          "kills_rank": 144,
-          "town_center_rank": 112,
-          "migrant_score": 1325885,
-          "migrant_rank": 107,
-          "mystic_trial": 1868,
-          "mystic_rank": 130,
+          "power_rank": 82,
+          "kills_rank": 152,
+          "town_center_rank": 122,
+          "migrant_score": 1345075,
+          "migrant_rank": 113,
+          "mystic_trial": 1885,
+          "mystic_rank": 143,
           "leaderboards": [
             {
               "name": "Personal Power",
-              "value": 498627362,
+              "value": 520045847,
               "value_label": null,
-              "kingdom_rank": 94,
-              "kingdom_rank_label": "#94",
+              "kingdom_rank": 82,
+              "kingdom_rank_label": "#82",
               "rank_type": 3
             },
             {
               "name": "Kill Count",
               "value": 25608367,
               "value_label": null,
-              "kingdom_rank": 144,
-              "kingdom_rank_label": "#144",
+              "kingdom_rank": 152,
+              "kingdom_rank_label": "#152",
               "rank_type": 4
             },
             {
               "name": "Town Center Level",
               "value": 70,
               "value_label": null,
-              "kingdom_rank": 112,
-              "kingdom_rank_label": "#112",
+              "kingdom_rank": 122,
+              "kingdom_rank_label": "#122",
               "rank_type": 5
             },
             {
               "name": "Migrant Score",
-              "value": 1325885,
+              "value": 1345075,
               "value_label": null,
-              "kingdom_rank": 107,
-              "kingdom_rank_label": "#107",
+              "kingdom_rank": 113,
+              "kingdom_rank_label": "#113",
               "rank_type": 19
             },
             {
               "name": "Mystic Trial",
-              "value": 1868,
+              "value": 1885,
               "value_label": null,
-              "kingdom_rank": 130,
-              "kingdom_rank_label": "#130",
+              "kingdom_rank": 143,
+              "kingdom_rank_label": "#143",
               "rank_type": 20
             },
             {
               "name": "Coliseum",
-              "value": 10457,
-              "value_label": "46-7",
+              "value": 10470,
+              "value_label": "47-10",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 21
             },
             {
               "name": "Forest of Life",
-              "value": 20234,
-              "value_label": "24-4",
+              "value": 20237,
+              "value_label": "24-7",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 22
             },
             {
               "name": "Crystal Cave",
-              "value": 30228,
-              "value_label": "23-8",
+              "value": 30229,
+              "value_label": "23-9",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 23
@@ -2015,86 +2012,183 @@
         ],
         "gov_gear": {
           "hidden": false,
+          "message": null,
           "items": [
             {
               "slot": "Helmet",
               "name": "Dominus Circlet",
-              "icon": "/assets/icons/lordsequipment_icon_1004.png",
+              "equipid": 1016,
               "quality": 5,
-              "quality_key": "gold",
               "tier": "Gold",
+              "star": 1,
               "strength_level": 16,
-              "star": 1
+              "score": 61500,
+              "combat": 1423920,
+              "icon": "/assets/icons/lordsequipment_icon_1004.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 205
+                },
+                {
+                  "slot": 2,
+                  "id": 205
+                },
+                {
+                  "slot": 3,
+                  "id": 205
+                }
+              ]
             },
             {
               "slot": "Charm",
               "name": "Lion's Valor",
-              "icon": "/assets/icons/lordsequipment_icon_2004.png",
+              "equipid": 2016,
               "quality": 5,
-              "quality_key": "gold",
               "tier": "Gold",
+              "star": 1,
               "strength_level": 16,
-              "star": 1
+              "score": 61500,
+              "combat": 1423920,
+              "icon": "/assets/icons/lordsequipment_icon_2004.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 205
+                },
+                {
+                  "slot": 2,
+                  "id": 205
+                },
+                {
+                  "slot": 3,
+                  "id": 205
+                }
+              ]
             },
             {
               "slot": "Chest",
               "name": "Dominus Robe",
-              "icon": "/assets/icons/lordsequipment_icon_3007.png",
+              "equipid": 3023,
               "quality": 5,
-              "quality_key": "gold",
               "tier": "Gold T2",
+              "star": null,
               "strength_level": 23,
-              "star": null
+              "score": 105250,
+              "combat": 1852320,
+              "icon": "/assets/icons/lordsequipment_icon_3007.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 106
+                },
+                {
+                  "slot": 2,
+                  "id": 106
+                },
+                {
+                  "slot": 3,
+                  "id": 1053
+                }
+              ]
             },
             {
               "slot": "Legs",
               "name": "Dominus Chausses",
-              "icon": "/assets/icons/lordsequipment_icon_4004.png",
+              "equipid": 4020,
               "quality": 5,
-              "quality_key": "gold",
               "tier": "Gold T1",
+              "star": 1,
               "strength_level": 20,
-              "star": 1
+              "score": 86500,
+              "combat": 1668720,
+              "icon": "/assets/icons/lordsequipment_icon_4004.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 106
+                },
+                {
+                  "slot": 2,
+                  "id": 105
+                },
+                {
+                  "slot": 3,
+                  "id": 105
+                }
+              ]
             },
             {
               "slot": "Accessory",
               "name": "Lionheart",
-              "icon": "/assets/icons/lordsequipment_icon_5007.png",
+              "equipid": 5023,
               "quality": 5,
-              "quality_key": "gold",
               "tier": "Gold T2",
+              "star": null,
               "strength_level": 23,
-              "star": null
+              "score": 105250,
+              "combat": 1852320,
+              "icon": "/assets/icons/lordsequipment_icon_5007.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 306
+                },
+                {
+                  "slot": 2,
+                  "id": 306
+                },
+                {
+                  "slot": 3,
+                  "id": 306
+                }
+              ]
             },
             {
               "slot": "Weapon",
               "name": "Dominus Baton",
-              "icon": "/assets/icons/lordsequipment_icon_6004.png",
+              "equipid": 6020,
               "quality": 5,
-              "quality_key": "gold",
               "tier": "Gold T1",
+              "star": 1,
               "strength_level": 20,
-              "star": 1
+              "score": 86500,
+              "combat": 1668720,
+              "icon": "/assets/icons/lordsequipment_icon_6004.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 306
+                },
+                {
+                  "slot": 2,
+                  "id": 306
+                },
+                {
+                  "slot": 3,
+                  "id": 306
+                }
+              ]
             }
           ]
         }
       },
       "swordland": false,
-      "swordland_role": "",
-      "membership": "former",
-      "identity_key": "h1_ca613c5336cab78145689df44b5062af5efc93e7ccb2acba60d81831095dff09"
+      "swordland_role": ""
     },
     {
       "public_id": 12,
+      "identity_key": "h1_15469874f3a3f76c1929be3f81e4fcd68dd3dbe7b8d201ac4efe087a40430eb0",
       "origin": "BRO",
+      "membership": "current",
       "profile": {
         "player": {
-          "nick_name": "5th xmen",
+          "nick_name": "Leeloo",
           "kid": 671,
-          "power": 513402985,
+          "power": 521200537,
           "town_center_level": 70,
-          "kills": 13034684,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/06/mY3799_1793974410.png",
+          "kills": 13068459,
+          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/10/mY3799_1794338946.png",
           "alliance": {
             "abbr": "BRO",
             "name": "Brotherhood",
@@ -2103,58 +2197,58 @@
           }
         },
         "ranks": {
-          "power_rank": 83,
-          "kills_rank": 242,
-          "town_center_rank": 141,
-          "migrant_score": 1140251,
-          "migrant_rank": 155,
-          "mystic_trial": 1697,
-          "mystic_rank": 190,
+          "power_rank": 80,
+          "kills_rank": 253,
+          "town_center_rank": 149,
+          "migrant_score": 1140384,
+          "migrant_rank": 165,
+          "mystic_trial": 1713,
+          "mystic_rank": 202,
           "leaderboards": [
             {
               "name": "Personal Power",
-              "value": 513402985,
+              "value": 521200537,
               "value_label": null,
-              "kingdom_rank": 83,
-              "kingdom_rank_label": "#83",
+              "kingdom_rank": 80,
+              "kingdom_rank_label": "#80",
               "rank_type": 3
             },
             {
               "name": "Kill Count",
-              "value": 13034684,
+              "value": 13068459,
               "value_label": null,
-              "kingdom_rank": 242,
-              "kingdom_rank_label": "#242",
+              "kingdom_rank": 253,
+              "kingdom_rank_label": "#253",
               "rank_type": 4
             },
             {
               "name": "Town Center Level",
               "value": 70,
               "value_label": null,
-              "kingdom_rank": 141,
-              "kingdom_rank_label": "#141",
+              "kingdom_rank": 149,
+              "kingdom_rank_label": "#149",
               "rank_type": 5
             },
             {
               "name": "Migrant Score",
-              "value": 1140251,
+              "value": 1140384,
               "value_label": null,
-              "kingdom_rank": 155,
-              "kingdom_rank_label": "#155",
+              "kingdom_rank": 165,
+              "kingdom_rank_label": "#165",
               "rank_type": 19
             },
             {
               "name": "Mystic Trial",
-              "value": 1697,
+              "value": 1713,
               "value_label": null,
-              "kingdom_rank": 190,
-              "kingdom_rank_label": "#190",
+              "kingdom_rank": 202,
+              "kingdom_rank_label": "#202",
               "rank_type": 20
             },
             {
               "name": "Coliseum",
-              "value": 10382,
-              "value_label": "39-2",
+              "value": 10394,
+              "value_label": "40-4",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 21
@@ -2169,8 +2263,8 @@
             },
             {
               "name": "Crystal Cave",
-              "value": 30220,
-              "value_label": "22-10",
+              "value": 30223,
+              "value_label": "23-3",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 23
@@ -2193,8 +2287,8 @@
             },
             {
               "name": "Radiant Spire",
-              "value": 60466,
-              "value_label": "47-6",
+              "value": 60467,
+              "value_label": "47-7",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 26
@@ -2245,13 +2339,12 @@
         ],
         "gov_gear": {
           "hidden": true,
+          "message": "This player is hiding their governor gear.",
           "items": []
         }
       },
       "swordland": false,
-      "swordland_role": "",
-      "membership": "former",
-      "identity_key": "h1_15469874f3a3f76c1929be3f81e4fcd68dd3dbe7b8d201ac4efe087a40430eb0"
+      "swordland_role": ""
     },
     {
       "public_id": 13,
@@ -8497,14 +8590,16 @@
     },
     {
       "public_id": 47,
+      "identity_key": "h1_d9ece8a2e454f9bda8006c54e37734dbd98b689c13be063f1bb9b69b086d857c",
       "origin": "BRO",
+      "membership": "current",
       "profile": {
         "player": {
-          "nick_name": "Starlynx",
+          "nick_name": "Lilynx",
           "kid": 671,
-          "power": 140215317,
+          "power": 261090307,
           "town_center_level": 65,
-          "kills": 1296833,
+          "kills": 3468923,
           "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/10/04/l21BvJ_1791150793.png",
           "alliance": {
             "abbr": "BRO",
@@ -8514,74 +8609,74 @@
           }
         },
         "ranks": {
-          "power_rank": 252,
-          "kills_rank": 603,
-          "town_center_rank": 230,
-          "migrant_score": 838723,
-          "migrant_rank": 246,
-          "mystic_trial": 1477,
-          "mystic_rank": 301,
+          "power_rank": 349,
+          "kills_rank": 447,
+          "town_center_rank": 242,
+          "migrant_score": 865021,
+          "migrant_rank": 247,
+          "mystic_trial": 1532,
+          "mystic_rank": 285,
           "leaderboards": [
             {
               "name": "Personal Power",
-              "value": 140215317,
+              "value": 261090307,
               "value_label": null,
-              "kingdom_rank": 252,
-              "kingdom_rank_label": "#252",
+              "kingdom_rank": 349,
+              "kingdom_rank_label": "#349",
               "rank_type": 3
             },
             {
               "name": "Kill Count",
-              "value": 1296833,
+              "value": 3468923,
               "value_label": null,
-              "kingdom_rank": 603,
-              "kingdom_rank_label": "#603",
+              "kingdom_rank": 447,
+              "kingdom_rank_label": "#447",
               "rank_type": 4
             },
             {
               "name": "Town Center Level",
               "value": 65,
               "value_label": null,
-              "kingdom_rank": 230,
-              "kingdom_rank_label": "#230",
+              "kingdom_rank": 242,
+              "kingdom_rank_label": "#242",
               "rank_type": 5
             },
             {
               "name": "Migrant Score",
-              "value": 838723,
+              "value": 865021,
               "value_label": null,
-              "kingdom_rank": 246,
-              "kingdom_rank_label": "#246",
+              "kingdom_rank": 247,
+              "kingdom_rank_label": "#247",
               "rank_type": 19
             },
             {
               "name": "Mystic Trial",
-              "value": 1477,
+              "value": 1532,
               "value_label": null,
-              "kingdom_rank": 301,
-              "kingdom_rank_label": "#301",
+              "kingdom_rank": 285,
+              "kingdom_rank_label": "#285",
               "rank_type": 20
             },
             {
               "name": "Coliseum",
-              "value": 10349,
-              "value_label": "35-9",
+              "value": 10355,
+              "value_label": "36-5",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 21
             },
             {
               "name": "Forest of Life",
-              "value": 20215,
-              "value_label": "22-5",
+              "value": 20233,
+              "value_label": "24-3",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 22
             },
             {
               "name": "Crystal Cave",
-              "value": 30182,
-              "value_label": "19-2",
+              "value": 30188,
+              "value_label": "19-8",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 23
@@ -8596,16 +8691,16 @@
             },
             {
               "name": "Molten Fort",
-              "value": 50192,
-              "value_label": "20-2",
+              "value": 50199,
+              "value_label": "20-9",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 25
             },
             {
               "name": "Radiant Spire",
-              "value": 60400,
-              "value_label": "40-10",
+              "value": 60418,
+              "value_label": "42-8",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 26
@@ -8656,13 +8751,12 @@
         ],
         "gov_gear": {
           "hidden": true,
+          "message": "This player is hiding their governor gear.",
           "items": []
         }
       },
       "swordland": false,
-      "swordland_role": "",
-      "membership": "former",
-      "identity_key": "h1_d9ece8a2e454f9bda8006c54e37734dbd98b689c13be063f1bb9b69b086d857c"
+      "swordland_role": ""
     },
     {
       "public_id": 48,
@@ -12182,15 +12276,17 @@
     },
     {
       "public_id": 65,
+      "identity_key": "h1_124bf8a27aed04b6e4d6700188d53452180692ceabf5ea8c77e5bddf1e6d1d10",
       "origin": "BRO",
+      "membership": "current",
       "profile": {
         "player": {
-          "nick_name": "El Diablito",
+          "nick_name": "Lord Dingaling",
           "kid": 671,
-          "power": 302416710,
+          "power": 303172281,
           "town_center_level": 60,
           "kills": 20004147,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/10/23/93vjBP_1792783572.png",
+          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/10/93vjBP_1794291513.png",
           "alliance": {
             "abbr": "BRO",
             "name": "Brotherhood",
@@ -12199,52 +12295,52 @@
           }
         },
         "ranks": {
-          "power_rank": 315,
-          "kills_rank": 178,
-          "town_center_rank": 352,
-          "migrant_score": 1014252,
-          "migrant_rank": 178,
-          "mystic_trial": 1905,
-          "mystic_rank": 119,
+          "power_rank": 285,
+          "kills_rank": 186,
+          "town_center_rank": 364,
+          "migrant_score": 1023060,
+          "migrant_rank": 190,
+          "mystic_trial": 1923,
+          "mystic_rank": 131,
           "leaderboards": [
             {
               "name": "Personal Power",
-              "value": 302416710,
+              "value": 303172281,
               "value_label": null,
-              "kingdom_rank": 315,
-              "kingdom_rank_label": "#315",
+              "kingdom_rank": 285,
+              "kingdom_rank_label": "#285",
               "rank_type": 3
             },
             {
               "name": "Kill Count",
               "value": 20004147,
               "value_label": null,
-              "kingdom_rank": 178,
-              "kingdom_rank_label": "#178",
+              "kingdom_rank": 186,
+              "kingdom_rank_label": "#186",
               "rank_type": 4
             },
             {
               "name": "Town Center Level",
               "value": 60,
               "value_label": null,
-              "kingdom_rank": 352,
-              "kingdom_rank_label": "#352",
+              "kingdom_rank": 364,
+              "kingdom_rank_label": "#364",
               "rank_type": 5
             },
             {
               "name": "Migrant Score",
-              "value": 1014252,
+              "value": 1023060,
               "value_label": null,
-              "kingdom_rank": 178,
-              "kingdom_rank_label": "#178",
+              "kingdom_rank": 190,
+              "kingdom_rank_label": "#190",
               "rank_type": 19
             },
             {
               "name": "Mystic Trial",
-              "value": 1905,
+              "value": 1923,
               "value_label": null,
-              "kingdom_rank": 119,
-              "kingdom_rank_label": "#119",
+              "kingdom_rank": 131,
+              "kingdom_rank_label": "#131",
               "rank_type": 20
             },
             {
@@ -12267,14 +12363,14 @@
               "name": "Crystal Cave",
               "value": 30249,
               "value_label": "25-9",
-              "kingdom_rank": 82,
-              "kingdom_rank_label": "#82",
+              "kingdom_rank": 94,
+              "kingdom_rank_label": "#94",
               "rank_type": 23
             },
             {
               "name": "Knowledge Nexus",
-              "value": 40174,
-              "value_label": "18-4",
+              "value": 40176,
+              "value_label": "18-6",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 24
@@ -12341,13 +12437,12 @@
         ],
         "gov_gear": {
           "hidden": true,
+          "message": "This player is hiding their governor gear.",
           "items": []
         }
       },
       "swordland": false,
-      "swordland_role": "",
-      "membership": "former",
-      "identity_key": "h1_124bf8a27aed04b6e4d6700188d53452180692ceabf5ea8c77e5bddf1e6d1d10"
+      "swordland_role": ""
     },
     {
       "public_id": 66,
@@ -13091,15 +13186,17 @@
     },
     {
       "public_id": 70,
+      "identity_key": "h1_a2da8f4c7c24cddcb8fd9d0b16b7197db37f23f73a13762a514bcc1518023735",
       "origin": "BRO",
+      "membership": "current",
       "profile": {
         "player": {
-          "nick_name": "MassiveFae",
+          "nick_name": "smemes",
           "kid": 671,
-          "power": 284965401,
+          "power": 294073445,
           "town_center_level": 60,
-          "kills": 3563806,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/04/7pr35B_1793825103.png",
+          "kills": 3595220,
+          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/09/7pr35B_1794238321.png",
           "alliance": {
             "abbr": "BRO",
             "name": "Brotherhood",
@@ -13108,52 +13205,52 @@
           }
         },
         "ranks": {
-          "power_rank": 311,
-          "kills_rank": 433,
-          "town_center_rank": 403,
-          "migrant_score": 711563,
-          "migrant_rank": 329,
-          "mystic_trial": 1346,
-          "mystic_rank": 386,
+          "power_rank": 296,
+          "kills_rank": 442,
+          "town_center_rank": 412,
+          "migrant_score": 743982,
+          "migrant_rank": 326,
+          "mystic_trial": 1353,
+          "mystic_rank": 393,
           "leaderboards": [
             {
               "name": "Personal Power",
-              "value": 284965401,
+              "value": 294073445,
               "value_label": null,
-              "kingdom_rank": 311,
-              "kingdom_rank_label": "#311",
+              "kingdom_rank": 296,
+              "kingdom_rank_label": "#296",
               "rank_type": 3
             },
             {
               "name": "Kill Count",
-              "value": 3563806,
+              "value": 3595220,
               "value_label": null,
-              "kingdom_rank": 433,
-              "kingdom_rank_label": "#433",
+              "kingdom_rank": 442,
+              "kingdom_rank_label": "#442",
               "rank_type": 4
             },
             {
               "name": "Town Center Level",
               "value": 60,
               "value_label": null,
-              "kingdom_rank": 403,
-              "kingdom_rank_label": "#403",
+              "kingdom_rank": 412,
+              "kingdom_rank_label": "#412",
               "rank_type": 5
             },
             {
               "name": "Migrant Score",
-              "value": 711563,
+              "value": 743982,
               "value_label": null,
-              "kingdom_rank": 329,
-              "kingdom_rank_label": "#329",
+              "kingdom_rank": 326,
+              "kingdom_rank_label": "#326",
               "rank_type": 19
             },
             {
               "name": "Mystic Trial",
-              "value": 1346,
+              "value": 1353,
               "value_label": null,
-              "kingdom_rank": 386,
-              "kingdom_rank_label": "#386",
+              "kingdom_rank": 393,
+              "kingdom_rank_label": "#393",
               "rank_type": 20
             },
             {
@@ -13182,16 +13279,16 @@
             },
             {
               "name": "Knowledge Nexus",
-              "value": 40117,
-              "value_label": "12-7",
+              "value": 40118,
+              "value_label": "12-8",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 24
             },
             {
               "name": "Molten Fort",
-              "value": 50168,
-              "value_label": "17-8",
+              "value": 50172,
+              "value_label": "18-2",
               "kingdom_rank": null,
               "kingdom_rank_label": "100+",
               "rank_type": 25
@@ -13250,74 +13347,169 @@
         ],
         "gov_gear": {
           "hidden": false,
+          "message": null,
           "items": [
             {
               "slot": "Helmet",
               "name": "Regal Headdress",
-              "icon": "/assets/icons/lordsequipment_icon_1003.png",
+              "equipid": 1008,
               "quality": 4,
-              "quality_key": "purple",
               "tier": "Purple",
+              "star": 1,
               "strength_level": 8,
-              "star": 1
+              "score": 27500,
+              "combat": 885360,
+              "icon": "/assets/icons/lordsequipment_icon_1003.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 203
+                },
+                {
+                  "slot": 2,
+                  "id": 203
+                },
+                {
+                  "slot": 3,
+                  "id": 203
+                }
+              ]
             },
             {
               "slot": "Charm",
               "name": "Sunblossom Halo",
-              "icon": "/assets/icons/lordsequipment_icon_2003.png",
+              "equipid": 2011,
               "quality": 4,
-              "quality_key": "purple",
-              "tier": "Purple",
-              "strength_level": 10,
-              "star": 3
+              "tier": "Purple T1",
+              "star": null,
+              "strength_level": 11,
+              "score": 37390,
+              "combat": 1093440,
+              "icon": "/assets/icons/lordsequipment_icon_2003.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 203
+                },
+                {
+                  "slot": 2,
+                  "id": 203
+                },
+                {
+                  "slot": 3,
+                  "id": 203
+                }
+              ]
             },
             {
               "slot": "Chest",
               "name": "Regal Leatherwear",
-              "icon": "/assets/icons/lordsequipment_icon_3003.png",
+              "equipid": 3007,
               "quality": 4,
-              "quality_key": "purple",
               "tier": "Purple",
+              "star": null,
               "strength_level": 7,
-              "star": null
+              "score": 24270,
+              "combat": 816000,
+              "icon": "/assets/icons/lordsequipment_icon_3003.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 104
+                },
+                {
+                  "slot": 2,
+                  "id": 104
+                },
+                {
+                  "slot": 3,
+                  "id": 104
+                }
+              ]
             },
             {
               "slot": "Legs",
               "name": "Regal Breeches",
-              "icon": "/assets/icons/lordsequipment_icon_4003.png",
+              "equipid": 4011,
               "quality": 4,
-              "quality_key": "purple",
               "tier": "Purple T1",
+              "star": null,
               "strength_level": 11,
-              "star": null
+              "score": 37390,
+              "combat": 1093440,
+              "icon": "/assets/icons/lordsequipment_icon_4003.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 104
+                },
+                {
+                  "slot": 2,
+                  "id": 104
+                },
+                {
+                  "slot": 3,
+                  "id": 104
+                }
+              ]
             },
             {
               "slot": "Accessory",
-              "name": "Sunblossom Wreath",
-              "icon": "/assets/icons/lordsequipment_icon_5003.png",
-              "quality": 4,
-              "quality_key": "purple",
-              "tier": "Purple T1",
-              "strength_level": 12,
-              "star": 1
+              "name": "Lionheart",
+              "equipid": 5015,
+              "quality": 5,
+              "tier": "Gold",
+              "star": null,
+              "strength_level": 15,
+              "score": 55250,
+              "combat": 1362720,
+              "icon": "/assets/icons/lordsequipment_icon_5004.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 304
+                },
+                {
+                  "slot": 2,
+                  "id": 304
+                },
+                {
+                  "slot": 3,
+                  "id": 304
+                }
+              ]
             },
             {
               "slot": "Weapon",
               "name": "Dominus Baton",
-              "icon": "/assets/icons/lordsequipment_icon_6004.png",
+              "equipid": 6015,
               "quality": 5,
-              "quality_key": "gold",
               "tier": "Gold",
+              "star": null,
               "strength_level": 15,
-              "star": null
+              "score": 55250,
+              "combat": 1362720,
+              "icon": "/assets/icons/lordsequipment_icon_6004.png",
+              "gems": [
+                {
+                  "slot": 1,
+                  "id": 3051
+                },
+                {
+                  "slot": 2,
+                  "id": 305
+                },
+                {
+                  "slot": 3,
+                  "id": 305
+                }
+              ]
             }
           ]
         }
       },
       "swordland": false,
-      "swordland_role": "",
-      "membership": "former",
-      "identity_key": "h1_a2da8f4c7c24cddcb8fd9d0b16b7197db37f23f73a13762a514bcc1518023735"
+      "swordland_role": ""
     },
     {
       "public_id": 71,
@@ -17279,178 +17471,8 @@
       "identity_key": "h1_d7830a21a68cbd5672dd2ea27557e675070ac1c572e74077a3488aacd379bc71"
     },
     {
-      "public_id": 92,
-      "identity_key": "h1_7f282a29500db376fe620b4b4278412f221e61f6bf2c6be52113f49506344533",
-      "origin": "BRO",
-      "membership": "current",
-      "profile": {
-        "player": {
-          "nick_name": "Bank Heist Bryce",
-          "kid": 671,
-          "power": 907626042,
-          "town_center_level": 70,
-          "kills": 76268259,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/09/9DKpp8_1794199160.png",
-          "alliance": {
-            "abbr": "BRO",
-            "name": "Brotherhood",
-            "rank": 5,
-            "rank_label": "Leader"
-          }
-        },
-        "ranks": {
-          "power_rank": 5,
-          "kills_rank": 41,
-          "town_center_rank": 12,
-          "migrant_score": 2949831,
-          "migrant_rank": 10,
-          "mystic_trial": 2963,
-          "mystic_rank": 12,
-          "leaderboards": [
-            {
-              "name": "Personal Power",
-              "value": 907626042,
-              "value_label": null,
-              "kingdom_rank": 5,
-              "kingdom_rank_label": "#5",
-              "rank_type": 3
-            },
-            {
-              "name": "Kill Count",
-              "value": 76268259,
-              "value_label": null,
-              "kingdom_rank": 41,
-              "kingdom_rank_label": "#41",
-              "rank_type": 4
-            },
-            {
-              "name": "Town Center Level",
-              "value": 70,
-              "value_label": null,
-              "kingdom_rank": 12,
-              "kingdom_rank_label": "#12",
-              "rank_type": 5
-            },
-            {
-              "name": "Migrant Score",
-              "value": 2949831,
-              "value_label": null,
-              "kingdom_rank": 10,
-              "kingdom_rank_label": "#10",
-              "rank_type": 19
-            },
-            {
-              "name": "Mystic Trial",
-              "value": 2963,
-              "value_label": null,
-              "kingdom_rank": 12,
-              "kingdom_rank_label": "#12",
-              "rank_type": 20
-            },
-            {
-              "name": "Coliseum",
-              "value": 10679,
-              "value_label": "68-9",
-              "kingdom_rank": 28,
-              "kingdom_rank_label": "#28",
-              "rank_type": 21
-            },
-            {
-              "name": "Forest of Life",
-              "value": 20368,
-              "value_label": "37-8",
-              "kingdom_rank": 7,
-              "kingdom_rank_label": "#7",
-              "rank_type": 22
-            },
-            {
-              "name": "Crystal Cave",
-              "value": 30415,
-              "value_label": "42-5",
-              "kingdom_rank": 7,
-              "kingdom_rank_label": "#7",
-              "rank_type": 23
-            },
-            {
-              "name": "Knowledge Nexus",
-              "value": 40270,
-              "value_label": "27-10",
-              "kingdom_rank": 36,
-              "kingdom_rank_label": "#36",
-              "rank_type": 24
-            },
-            {
-              "name": "Molten Fort",
-              "value": 50465,
-              "value_label": "47-5",
-              "kingdom_rank": 8,
-              "kingdom_rank_label": "#8",
-              "rank_type": 25
-            },
-            {
-              "name": "Radiant Spire",
-              "value": 60766,
-              "value_label": "77-6",
-              "kingdom_rank": 16,
-              "kingdom_rank_label": "#16",
-              "rank_type": 26
-            }
-          ]
-        },
-        "heroes": [
-          {
-            "name": "Charles",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50032.png",
-            "position": 1
-          },
-          {
-            "name": "Triton",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50019.png",
-            "position": 2
-          },
-          {
-            "name": "Yang",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50031.png",
-            "position": 3
-          },
-          {
-            "name": "Wee & Woo",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50033.png",
-            "position": 4
-          },
-          {
-            "name": "Ava",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50015.png",
-            "position": 5
-          }
-        ],
-        "gov_gear": {
-          "hidden": true,
-          "message": "This player is hiding their governor gear.",
-          "items": []
-        }
-      },
-      "swordland": false,
-      "swordland_role": ""
-    },
-    {
       "public_id": 93,
-      "identity_key": "h1_257faec676dae9852c5699c56e05ed26a2e91997c58422542734618b8cb863a4",
+      "identity_key": "h1_5547b6a333bf5cd9bc0b9a05d1411f0691d7cacde0b6894f258248411777e9a5",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -17620,7 +17642,7 @@
     },
     {
       "public_id": 94,
-      "identity_key": "h1_9981e3bc21ad090c56c5ae3ea48c1b732e71d3deba0daa6bb3d38ba43d89d025",
+      "identity_key": "h1_131fe1d4831ae56425ce860aebe8a081ae8f3e3f47304604d5b2831209308126",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -17790,7 +17812,7 @@
     },
     {
       "public_id": 95,
-      "identity_key": "h1_39a006276b4f5724926d108b48ef4dd8131efbba7c303b7d47d2b77f21103b08",
+      "identity_key": "h1_c721d65da350770c06de2f3c75cc5e2ceeba676bf6731df64e7e872116a2facb",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -17959,845 +17981,8 @@
       "swordland_role": ""
     },
     {
-      "public_id": 96,
-      "identity_key": "h1_4332c3b87d3278262f835498081476987c55d4e551299fc29eb8740c673d5513",
-      "origin": "BRO",
-      "membership": "current",
-      "profile": {
-        "player": {
-          "nick_name": "PuZRFssy",
-          "kid": 671,
-          "power": 598130822,
-          "town_center_level": 70,
-          "kills": 170208502,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/10/10/DQL3E6_1791645743.png",
-          "alliance": {
-            "abbr": "BRO",
-            "name": "Brotherhood",
-            "rank": 3,
-            "rank_label": "R3"
-          }
-        },
-        "ranks": {
-          "power_rank": 41,
-          "kills_rank": 13,
-          "town_center_rank": 18,
-          "migrant_score": 3084900,
-          "migrant_rank": 7,
-          "mystic_trial": 3177,
-          "mystic_rank": 9,
-          "leaderboards": [
-            {
-              "name": "Personal Power",
-              "value": 598130822,
-              "value_label": null,
-              "kingdom_rank": 41,
-              "kingdom_rank_label": "#41",
-              "rank_type": 3
-            },
-            {
-              "name": "Kill Count",
-              "value": 170208502,
-              "value_label": null,
-              "kingdom_rank": 13,
-              "kingdom_rank_label": "#13",
-              "rank_type": 4
-            },
-            {
-              "name": "Town Center Level",
-              "value": 70,
-              "value_label": null,
-              "kingdom_rank": 18,
-              "kingdom_rank_label": "#18",
-              "rank_type": 5
-            },
-            {
-              "name": "Migrant Score",
-              "value": 3084900,
-              "value_label": null,
-              "kingdom_rank": 7,
-              "kingdom_rank_label": "#7",
-              "rank_type": 19
-            },
-            {
-              "name": "Mystic Trial",
-              "value": 3177,
-              "value_label": null,
-              "kingdom_rank": 9,
-              "kingdom_rank_label": "#9",
-              "rank_type": 20
-            },
-            {
-              "name": "Coliseum",
-              "value": 10817,
-              "value_label": "82-7",
-              "kingdom_rank": 6,
-              "kingdom_rank_label": "#6",
-              "rank_type": 21
-            },
-            {
-              "name": "Forest of Life",
-              "value": 20347,
-              "value_label": "35-7",
-              "kingdom_rank": 9,
-              "kingdom_rank_label": "#9",
-              "rank_type": 22
-            },
-            {
-              "name": "Crystal Cave",
-              "value": 30402,
-              "value_label": "41-2",
-              "kingdom_rank": 10,
-              "kingdom_rank_label": "#10",
-              "rank_type": 23
-            },
-            {
-              "name": "Knowledge Nexus",
-              "value": 40299,
-              "value_label": "30-9",
-              "kingdom_rank": 10,
-              "kingdom_rank_label": "#10",
-              "rank_type": 24
-            },
-            {
-              "name": "Molten Fort",
-              "value": 50434,
-              "value_label": "44-4",
-              "kingdom_rank": 12,
-              "kingdom_rank_label": "#12",
-              "rank_type": 25
-            },
-            {
-              "name": "Radiant Spire",
-              "value": 60878,
-              "value_label": "88-8",
-              "kingdom_rank": 7,
-              "kingdom_rank_label": "#7",
-              "rank_type": 26
-            }
-          ]
-        },
-        "heroes": [
-          {
-            "name": "Charles",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50032.png",
-            "position": 1
-          },
-          {
-            "name": "Triton",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50019.png",
-            "position": 2
-          },
-          {
-            "name": "Yang",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50031.png",
-            "position": 3
-          },
-          {
-            "name": "Ava",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50015.png",
-            "position": 4
-          },
-          {
-            "name": "Wee & Woo",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50033.png",
-            "position": 5
-          }
-        ],
-        "gov_gear": {
-          "hidden": true,
-          "message": "This player is hiding their governor gear.",
-          "items": []
-        }
-      },
-      "swordland": false,
-      "swordland_role": ""
-    },
-    {
-      "public_id": 97,
-      "identity_key": "h1_9665de11912058b03204aa1255dfcfbcb02eae463d3daaa34ac1357c428bf186",
-      "origin": "BRO",
-      "membership": "current",
-      "profile": {
-        "player": {
-          "nick_name": "LaIa",
-          "kid": 671,
-          "power": 576214296,
-          "town_center_level": 70,
-          "kills": 40166674,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/09/JNMp2K_1794206494.png",
-          "alliance": {
-            "abbr": "BRO",
-            "name": "Brotherhood",
-            "rank": 4,
-            "rank_label": "R4"
-          }
-        },
-        "ranks": {
-          "power_rank": 49,
-          "kills_rank": 84,
-          "town_center_rank": 75,
-          "migrant_score": 1538189,
-          "migrant_rank": 85,
-          "mystic_trial": 2253,
-          "mystic_rank": 76,
-          "leaderboards": [
-            {
-              "name": "Personal Power",
-              "value": 576214296,
-              "value_label": null,
-              "kingdom_rank": 49,
-              "kingdom_rank_label": "#49",
-              "rank_type": 3
-            },
-            {
-              "name": "Kill Count",
-              "value": 40166674,
-              "value_label": null,
-              "kingdom_rank": 84,
-              "kingdom_rank_label": "#84",
-              "rank_type": 4
-            },
-            {
-              "name": "Town Center Level",
-              "value": 70,
-              "value_label": null,
-              "kingdom_rank": 75,
-              "kingdom_rank_label": "#75",
-              "rank_type": 5
-            },
-            {
-              "name": "Migrant Score",
-              "value": 1538189,
-              "value_label": null,
-              "kingdom_rank": 85,
-              "kingdom_rank_label": "#85",
-              "rank_type": 19
-            },
-            {
-              "name": "Mystic Trial",
-              "value": 2253,
-              "value_label": null,
-              "kingdom_rank": 76,
-              "kingdom_rank_label": "#76",
-              "rank_type": 20
-            },
-            {
-              "name": "Coliseum",
-              "value": 10569,
-              "value_label": "57-9",
-              "kingdom_rank": 69,
-              "kingdom_rank_label": "#69",
-              "rank_type": 21
-            },
-            {
-              "name": "Forest of Life",
-              "value": 20264,
-              "value_label": "27-4",
-              "kingdom_rank": 45,
-              "kingdom_rank_label": "#45",
-              "rank_type": 22
-            },
-            {
-              "name": "Crystal Cave",
-              "value": 30267,
-              "value_label": "27-7",
-              "kingdom_rank": 68,
-              "kingdom_rank_label": "#68",
-              "rank_type": 23
-            },
-            {
-              "name": "Knowledge Nexus",
-              "value": 40215,
-              "value_label": "22-5",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 24
-            },
-            {
-              "name": "Molten Fort",
-              "value": 50309,
-              "value_label": "31-9",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 25
-            },
-            {
-              "name": "Radiant Spire",
-              "value": 60629,
-              "value_label": "63-9",
-              "kingdom_rank": 74,
-              "kingdom_rank_label": "#74",
-              "rank_type": 26
-            }
-          ]
-        },
-        "heroes": [
-          {
-            "name": "Long Fei",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50024.png",
-            "position": 1
-          },
-          {
-            "name": "Sophia",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star (Tier 5)",
-            "icon": "/assets/icons/hero_headpic_50030.png",
-            "position": 2
-          },
-          {
-            "name": "Thrud",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50025.png",
-            "position": 3
-          },
-          {
-            "name": "Yang",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50031.png",
-            "position": 4
-          },
-          {
-            "name": "Ava",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50015.png",
-            "position": 5
-          }
-        ],
-        "gov_gear": {
-          "hidden": true,
-          "message": "This player is hiding their governor gear.",
-          "items": []
-        }
-      },
-      "swordland": false,
-      "swordland_role": ""
-    },
-    {
-      "public_id": 98,
-      "identity_key": "h1_0758862a32541615f4ec5f6ba4f38ade1e83382b8d0fc815b1a21e6a95d448b2",
-      "origin": "BRO",
-      "membership": "current",
-      "profile": {
-        "player": {
-          "nick_name": "Leeloo",
-          "kid": 671,
-          "power": 521200537,
-          "town_center_level": 70,
-          "kills": 13068459,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/10/mY3799_1794338946.png",
-          "alliance": {
-            "abbr": "BRO",
-            "name": "Brotherhood",
-            "rank": 4,
-            "rank_label": "R4"
-          }
-        },
-        "ranks": {
-          "power_rank": 80,
-          "kills_rank": 253,
-          "town_center_rank": 149,
-          "migrant_score": 1140384,
-          "migrant_rank": 165,
-          "mystic_trial": 1713,
-          "mystic_rank": 202,
-          "leaderboards": [
-            {
-              "name": "Personal Power",
-              "value": 521200537,
-              "value_label": null,
-              "kingdom_rank": 80,
-              "kingdom_rank_label": "#80",
-              "rank_type": 3
-            },
-            {
-              "name": "Kill Count",
-              "value": 13068459,
-              "value_label": null,
-              "kingdom_rank": 253,
-              "kingdom_rank_label": "#253",
-              "rank_type": 4
-            },
-            {
-              "name": "Town Center Level",
-              "value": 70,
-              "value_label": null,
-              "kingdom_rank": 149,
-              "kingdom_rank_label": "#149",
-              "rank_type": 5
-            },
-            {
-              "name": "Migrant Score",
-              "value": 1140384,
-              "value_label": null,
-              "kingdom_rank": 165,
-              "kingdom_rank_label": "#165",
-              "rank_type": 19
-            },
-            {
-              "name": "Mystic Trial",
-              "value": 1713,
-              "value_label": null,
-              "kingdom_rank": 202,
-              "kingdom_rank_label": "#202",
-              "rank_type": 20
-            },
-            {
-              "name": "Coliseum",
-              "value": 10394,
-              "value_label": "40-4",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 21
-            },
-            {
-              "name": "Forest of Life",
-              "value": 20225,
-              "value_label": "23-5",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 22
-            },
-            {
-              "name": "Crystal Cave",
-              "value": 30223,
-              "value_label": "23-3",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 23
-            },
-            {
-              "name": "Knowledge Nexus",
-              "value": 40148,
-              "value_label": "15-8",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 24
-            },
-            {
-              "name": "Molten Fort",
-              "value": 50256,
-              "value_label": "26-6",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 25
-            },
-            {
-              "name": "Radiant Spire",
-              "value": 60467,
-              "value_label": "47-7",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 26
-            }
-          ]
-        },
-        "heroes": [
-          {
-            "name": "Long Fei",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50024.png",
-            "position": 1
-          },
-          {
-            "name": "Alcar",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star (Tier 1)",
-            "icon": "/assets/icons/hero_headpic_50023.png",
-            "position": 2
-          },
-          {
-            "name": "Petra",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50016.png",
-            "position": 3
-          },
-          {
-            "name": "Rosa",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50022.png",
-            "position": 4
-          },
-          {
-            "name": "Margot",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star (Tier 2)",
-            "icon": "/assets/icons/hero_headpic_50014.png",
-            "position": 5
-          }
-        ],
-        "gov_gear": {
-          "hidden": true,
-          "message": "This player is hiding their governor gear.",
-          "items": []
-        }
-      },
-      "swordland": false,
-      "swordland_role": ""
-    },
-    {
-      "public_id": 99,
-      "identity_key": "h1_60f202b7f7ea1cffc90a0db6501f346eba5616f16e50a135473b0b4e1cb631ee",
-      "origin": "BRO",
-      "membership": "current",
-      "profile": {
-        "player": {
-          "nick_name": "MD1 ʚïɞ",
-          "kid": 671,
-          "power": 520045847,
-          "town_center_level": 70,
-          "kills": 25608367,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/09/E0j6RW_1794267677.png",
-          "alliance": {
-            "abbr": "BRO",
-            "name": "Brotherhood",
-            "rank": 3,
-            "rank_label": "R3"
-          }
-        },
-        "ranks": {
-          "power_rank": 82,
-          "kills_rank": 152,
-          "town_center_rank": 122,
-          "migrant_score": 1345075,
-          "migrant_rank": 113,
-          "mystic_trial": 1885,
-          "mystic_rank": 143,
-          "leaderboards": [
-            {
-              "name": "Personal Power",
-              "value": 520045847,
-              "value_label": null,
-              "kingdom_rank": 82,
-              "kingdom_rank_label": "#82",
-              "rank_type": 3
-            },
-            {
-              "name": "Kill Count",
-              "value": 25608367,
-              "value_label": null,
-              "kingdom_rank": 152,
-              "kingdom_rank_label": "#152",
-              "rank_type": 4
-            },
-            {
-              "name": "Town Center Level",
-              "value": 70,
-              "value_label": null,
-              "kingdom_rank": 122,
-              "kingdom_rank_label": "#122",
-              "rank_type": 5
-            },
-            {
-              "name": "Migrant Score",
-              "value": 1345075,
-              "value_label": null,
-              "kingdom_rank": 113,
-              "kingdom_rank_label": "#113",
-              "rank_type": 19
-            },
-            {
-              "name": "Mystic Trial",
-              "value": 1885,
-              "value_label": null,
-              "kingdom_rank": 143,
-              "kingdom_rank_label": "#143",
-              "rank_type": 20
-            },
-            {
-              "name": "Coliseum",
-              "value": 10470,
-              "value_label": "47-10",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 21
-            },
-            {
-              "name": "Forest of Life",
-              "value": 20237,
-              "value_label": "24-7",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 22
-            },
-            {
-              "name": "Crystal Cave",
-              "value": 30229,
-              "value_label": "23-9",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 23
-            },
-            {
-              "name": "Knowledge Nexus",
-              "value": 40149,
-              "value_label": "15-9",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 24
-            },
-            {
-              "name": "Molten Fort",
-              "value": 50274,
-              "value_label": "28-4",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 25
-            },
-            {
-              "name": "Radiant Spire",
-              "value": 60526,
-              "value_label": "53-6",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 26
-            }
-          ]
-        },
-        "heroes": [
-          {
-            "name": "Long Fei",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50024.png",
-            "position": 1
-          },
-          {
-            "name": "Triton",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star",
-            "icon": "/assets/icons/hero_headpic_50019.png",
-            "position": 2
-          },
-          {
-            "name": "Sophia",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50030.png",
-            "position": 3
-          },
-          {
-            "name": "Yang",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star (Tier 1)",
-            "icon": "/assets/icons/hero_headpic_50031.png",
-            "position": 4
-          },
-          {
-            "name": "Thrud",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star (Tier 1)",
-            "icon": "/assets/icons/hero_headpic_50025.png",
-            "position": 5
-          }
-        ],
-        "gov_gear": {
-          "hidden": false,
-          "message": null,
-          "items": [
-            {
-              "slot": "Helmet",
-              "name": "Dominus Circlet",
-              "equipid": 1016,
-              "quality": 5,
-              "tier": "Gold",
-              "star": 1,
-              "strength_level": 16,
-              "score": 61500,
-              "combat": 1423920,
-              "icon": "/assets/icons/lordsequipment_icon_1004.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 205
-                },
-                {
-                  "slot": 2,
-                  "id": 205
-                },
-                {
-                  "slot": 3,
-                  "id": 205
-                }
-              ]
-            },
-            {
-              "slot": "Charm",
-              "name": "Lion's Valor",
-              "equipid": 2016,
-              "quality": 5,
-              "tier": "Gold",
-              "star": 1,
-              "strength_level": 16,
-              "score": 61500,
-              "combat": 1423920,
-              "icon": "/assets/icons/lordsequipment_icon_2004.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 205
-                },
-                {
-                  "slot": 2,
-                  "id": 205
-                },
-                {
-                  "slot": 3,
-                  "id": 205
-                }
-              ]
-            },
-            {
-              "slot": "Chest",
-              "name": "Dominus Robe",
-              "equipid": 3023,
-              "quality": 5,
-              "tier": "Gold T2",
-              "star": null,
-              "strength_level": 23,
-              "score": 105250,
-              "combat": 1852320,
-              "icon": "/assets/icons/lordsequipment_icon_3007.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 106
-                },
-                {
-                  "slot": 2,
-                  "id": 106
-                },
-                {
-                  "slot": 3,
-                  "id": 1053
-                }
-              ]
-            },
-            {
-              "slot": "Legs",
-              "name": "Dominus Chausses",
-              "equipid": 4020,
-              "quality": 5,
-              "tier": "Gold T1",
-              "star": 1,
-              "strength_level": 20,
-              "score": 86500,
-              "combat": 1668720,
-              "icon": "/assets/icons/lordsequipment_icon_4004.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 106
-                },
-                {
-                  "slot": 2,
-                  "id": 105
-                },
-                {
-                  "slot": 3,
-                  "id": 105
-                }
-              ]
-            },
-            {
-              "slot": "Accessory",
-              "name": "Lionheart",
-              "equipid": 5023,
-              "quality": 5,
-              "tier": "Gold T2",
-              "star": null,
-              "strength_level": 23,
-              "score": 105250,
-              "combat": 1852320,
-              "icon": "/assets/icons/lordsequipment_icon_5007.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 306
-                },
-                {
-                  "slot": 2,
-                  "id": 306
-                },
-                {
-                  "slot": 3,
-                  "id": 306
-                }
-              ]
-            },
-            {
-              "slot": "Weapon",
-              "name": "Dominus Baton",
-              "equipid": 6020,
-              "quality": 5,
-              "tier": "Gold T1",
-              "star": 1,
-              "strength_level": 20,
-              "score": 86500,
-              "combat": 1668720,
-              "icon": "/assets/icons/lordsequipment_icon_6004.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 306
-                },
-                {
-                  "slot": 2,
-                  "id": 306
-                },
-                {
-                  "slot": 3,
-                  "id": 306
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "swordland": false,
-      "swordland_role": ""
-    },
-    {
       "public_id": 100,
-      "identity_key": "h1_41f1a5ddb0600f231d6231b96f3656653cc95d8b9b26ea268519253634c8bb0b",
+      "identity_key": "h1_eea7fb63a29249f84b68136fe5f627a31b969c7e09c842e7b1da5560c37c87eb",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -18967,7 +18152,7 @@
     },
     {
       "public_id": 101,
-      "identity_key": "h1_01faf0c232bf636cc78cc5d70adea15c905f7390e611256574e9b99d962cc72c",
+      "identity_key": "h1_dfce64f420be69cbb8a8ac509a41aa763d50a8b67e63d91da507c1af0113a5c7",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -19136,178 +18321,8 @@
       "swordland_role": ""
     },
     {
-      "public_id": 102,
-      "identity_key": "h1_8e62b9ad396d165d4bffb94c8937a57071872576e8778355a2f5bcc1c65bf379",
-      "origin": "BRO",
-      "membership": "current",
-      "profile": {
-        "player": {
-          "nick_name": "Lord Dingaling",
-          "kid": 671,
-          "power": 303172281,
-          "town_center_level": 60,
-          "kills": 20004147,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/10/93vjBP_1794291513.png",
-          "alliance": {
-            "abbr": "BRO",
-            "name": "Brotherhood",
-            "rank": 1,
-            "rank_label": "R1"
-          }
-        },
-        "ranks": {
-          "power_rank": 285,
-          "kills_rank": 186,
-          "town_center_rank": 364,
-          "migrant_score": 1023060,
-          "migrant_rank": 190,
-          "mystic_trial": 1923,
-          "mystic_rank": 131,
-          "leaderboards": [
-            {
-              "name": "Personal Power",
-              "value": 303172281,
-              "value_label": null,
-              "kingdom_rank": 285,
-              "kingdom_rank_label": "#285",
-              "rank_type": 3
-            },
-            {
-              "name": "Kill Count",
-              "value": 20004147,
-              "value_label": null,
-              "kingdom_rank": 186,
-              "kingdom_rank_label": "#186",
-              "rank_type": 4
-            },
-            {
-              "name": "Town Center Level",
-              "value": 60,
-              "value_label": null,
-              "kingdom_rank": 364,
-              "kingdom_rank_label": "#364",
-              "rank_type": 5
-            },
-            {
-              "name": "Migrant Score",
-              "value": 1023060,
-              "value_label": null,
-              "kingdom_rank": 190,
-              "kingdom_rank_label": "#190",
-              "rank_type": 19
-            },
-            {
-              "name": "Mystic Trial",
-              "value": 1923,
-              "value_label": null,
-              "kingdom_rank": 131,
-              "kingdom_rank_label": "#131",
-              "rank_type": 20
-            },
-            {
-              "name": "Coliseum",
-              "value": 10462,
-              "value_label": "47-2",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 21
-            },
-            {
-              "name": "Forest of Life",
-              "value": 20226,
-              "value_label": "23-6",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 22
-            },
-            {
-              "name": "Crystal Cave",
-              "value": 30249,
-              "value_label": "25-9",
-              "kingdom_rank": 94,
-              "kingdom_rank_label": "#94",
-              "rank_type": 23
-            },
-            {
-              "name": "Knowledge Nexus",
-              "value": 40176,
-              "value_label": "18-6",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 24
-            },
-            {
-              "name": "Molten Fort",
-              "value": 50307,
-              "value_label": "31-7",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 25
-            },
-            {
-              "name": "Radiant Spire",
-              "value": 60487,
-              "value_label": "49-7",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 26
-            }
-          ]
-        },
-        "heroes": [
-          {
-            "name": "Alcar",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50023.png",
-            "position": 1
-          },
-          {
-            "name": "Long Fei",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50024.png",
-            "position": 2
-          },
-          {
-            "name": "Petra",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50016.png",
-            "position": 3
-          },
-          {
-            "name": "Yang",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star (Tier 3)",
-            "icon": "/assets/icons/hero_headpic_50031.png",
-            "position": 4
-          },
-          {
-            "name": "Rosa",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50022.png",
-            "position": 5
-          }
-        ],
-        "gov_gear": {
-          "hidden": true,
-          "message": "This player is hiding their governor gear.",
-          "items": []
-        }
-      },
-      "swordland": false,
-      "swordland_role": ""
-    },
-    {
       "public_id": 103,
-      "identity_key": "h1_01f3344cf32f1e30be0db4b16f00a74f7660c36e8df109e25e78c5a80f154758",
+      "identity_key": "h1_358dfa74ece3c7765eecff1836d77d421f5c94df23b1e93f066ec60304f92b7a",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -19477,7 +18492,7 @@
     },
     {
       "public_id": 104,
-      "identity_key": "h1_d7a90fbd5e49a9763e8d59660d3a2c2b3672e0d3df5b249d995ac94c350e4896",
+      "identity_key": "h1_8aff7a60f2d6569de0ecc4a585c5b7738adbf75195f5a3b6febe580480d4767b",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -19646,335 +18661,8 @@
       "swordland_role": ""
     },
     {
-      "public_id": 105,
-      "identity_key": "h1_c30b7b3fbc63fa83e1655855d26e077d069c3c14410dbfc47b13cc4336b04073",
-      "origin": "BRO",
-      "membership": "current",
-      "profile": {
-        "player": {
-          "nick_name": "smemes",
-          "kid": 671,
-          "power": 294073445,
-          "town_center_level": 60,
-          "kills": 3595220,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/11/09/7pr35B_1794238321.png",
-          "alliance": {
-            "abbr": "BRO",
-            "name": "Brotherhood",
-            "rank": 2,
-            "rank_label": "R2"
-          }
-        },
-        "ranks": {
-          "power_rank": 296,
-          "kills_rank": 442,
-          "town_center_rank": 412,
-          "migrant_score": 743982,
-          "migrant_rank": 326,
-          "mystic_trial": 1353,
-          "mystic_rank": 393,
-          "leaderboards": [
-            {
-              "name": "Personal Power",
-              "value": 294073445,
-              "value_label": null,
-              "kingdom_rank": 296,
-              "kingdom_rank_label": "#296",
-              "rank_type": 3
-            },
-            {
-              "name": "Kill Count",
-              "value": 3595220,
-              "value_label": null,
-              "kingdom_rank": 442,
-              "kingdom_rank_label": "#442",
-              "rank_type": 4
-            },
-            {
-              "name": "Town Center Level",
-              "value": 60,
-              "value_label": null,
-              "kingdom_rank": 412,
-              "kingdom_rank_label": "#412",
-              "rank_type": 5
-            },
-            {
-              "name": "Migrant Score",
-              "value": 743982,
-              "value_label": null,
-              "kingdom_rank": 326,
-              "kingdom_rank_label": "#326",
-              "rank_type": 19
-            },
-            {
-              "name": "Mystic Trial",
-              "value": 1353,
-              "value_label": null,
-              "kingdom_rank": 393,
-              "kingdom_rank_label": "#393",
-              "rank_type": 20
-            },
-            {
-              "name": "Coliseum",
-              "value": 10342,
-              "value_label": "35-2",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 21
-            },
-            {
-              "name": "Forest of Life",
-              "value": 20197,
-              "value_label": "20-7",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 22
-            },
-            {
-              "name": "Crystal Cave",
-              "value": 30165,
-              "value_label": "17-5",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 23
-            },
-            {
-              "name": "Knowledge Nexus",
-              "value": 40118,
-              "value_label": "12-8",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 24
-            },
-            {
-              "name": "Molten Fort",
-              "value": 50172,
-              "value_label": "18-2",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 25
-            },
-            {
-              "name": "Radiant Spire",
-              "value": 60357,
-              "value_label": "36-7",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 26
-            }
-          ]
-        },
-        "heroes": [
-          {
-            "name": "Long Fei",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star (Tier 1)",
-            "icon": "/assets/icons/hero_headpic_50024.png",
-            "position": 1
-          },
-          {
-            "name": "Alcar",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star (Tier 1)",
-            "icon": "/assets/icons/hero_headpic_50023.png",
-            "position": 2
-          },
-          {
-            "name": "Yang",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50031.png",
-            "position": 3
-          },
-          {
-            "name": "Wee & Woo",
-            "level": 80,
-            "stars": 3,
-            "star_label": "3-Star (Tier 3)",
-            "icon": "/assets/icons/hero_headpic_50033.png",
-            "position": 4
-          },
-          {
-            "name": "Margot",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star",
-            "icon": "/assets/icons/hero_headpic_50014.png",
-            "position": 5
-          }
-        ],
-        "gov_gear": {
-          "hidden": false,
-          "message": null,
-          "items": [
-            {
-              "slot": "Helmet",
-              "name": "Regal Headdress",
-              "equipid": 1008,
-              "quality": 4,
-              "tier": "Purple",
-              "star": 1,
-              "strength_level": 8,
-              "score": 27500,
-              "combat": 885360,
-              "icon": "/assets/icons/lordsequipment_icon_1003.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 203
-                },
-                {
-                  "slot": 2,
-                  "id": 203
-                },
-                {
-                  "slot": 3,
-                  "id": 203
-                }
-              ]
-            },
-            {
-              "slot": "Charm",
-              "name": "Sunblossom Halo",
-              "equipid": 2011,
-              "quality": 4,
-              "tier": "Purple T1",
-              "star": null,
-              "strength_level": 11,
-              "score": 37390,
-              "combat": 1093440,
-              "icon": "/assets/icons/lordsequipment_icon_2003.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 203
-                },
-                {
-                  "slot": 2,
-                  "id": 203
-                },
-                {
-                  "slot": 3,
-                  "id": 203
-                }
-              ]
-            },
-            {
-              "slot": "Chest",
-              "name": "Regal Leatherwear",
-              "equipid": 3007,
-              "quality": 4,
-              "tier": "Purple",
-              "star": null,
-              "strength_level": 7,
-              "score": 24270,
-              "combat": 816000,
-              "icon": "/assets/icons/lordsequipment_icon_3003.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 104
-                },
-                {
-                  "slot": 2,
-                  "id": 104
-                },
-                {
-                  "slot": 3,
-                  "id": 104
-                }
-              ]
-            },
-            {
-              "slot": "Legs",
-              "name": "Regal Breeches",
-              "equipid": 4011,
-              "quality": 4,
-              "tier": "Purple T1",
-              "star": null,
-              "strength_level": 11,
-              "score": 37390,
-              "combat": 1093440,
-              "icon": "/assets/icons/lordsequipment_icon_4003.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 104
-                },
-                {
-                  "slot": 2,
-                  "id": 104
-                },
-                {
-                  "slot": 3,
-                  "id": 104
-                }
-              ]
-            },
-            {
-              "slot": "Accessory",
-              "name": "Lionheart",
-              "equipid": 5015,
-              "quality": 5,
-              "tier": "Gold",
-              "star": null,
-              "strength_level": 15,
-              "score": 55250,
-              "combat": 1362720,
-              "icon": "/assets/icons/lordsequipment_icon_5004.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 304
-                },
-                {
-                  "slot": 2,
-                  "id": 304
-                },
-                {
-                  "slot": 3,
-                  "id": 304
-                }
-              ]
-            },
-            {
-              "slot": "Weapon",
-              "name": "Dominus Baton",
-              "equipid": 6015,
-              "quality": 5,
-              "tier": "Gold",
-              "star": null,
-              "strength_level": 15,
-              "score": 55250,
-              "combat": 1362720,
-              "icon": "/assets/icons/lordsequipment_icon_6004.png",
-              "gems": [
-                {
-                  "slot": 1,
-                  "id": 3051
-                },
-                {
-                  "slot": 2,
-                  "id": 305
-                },
-                {
-                  "slot": 3,
-                  "id": 305
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "swordland": false,
-      "swordland_role": ""
-    },
-    {
       "public_id": 106,
-      "identity_key": "h1_24292df7e0329238770f02cd06cfb0ac5799431c970f67e736b879027da53f08",
+      "identity_key": "h1_a7037328ef0d19da1276f7a25bc5da634cf8752876766cd199327395cd2ec7ba",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -20144,7 +18832,7 @@
     },
     {
       "public_id": 107,
-      "identity_key": "h1_47f464f2259d68ec9681c040f1a1cacb1f96279db3f2ce1a6241225cfcec7a7a",
+      "identity_key": "h1_ff020bac9bf4abed11b092560e2369d172236bb18709fc676b9d0332725efa4b",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -20314,7 +19002,7 @@
     },
     {
       "public_id": 108,
-      "identity_key": "h1_a6e6956eb30302888b1485c6a6ef08a2581ec2b33643e76be3c0ac7ef09cc514",
+      "identity_key": "h1_5a6ad103fc7e88226b464e5d96d12e37d344a1d5cd9490f914f262182af791c5",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -20484,7 +19172,7 @@
     },
     {
       "public_id": 109,
-      "identity_key": "h1_672317e7d62cca20d793017917cb7aa152dff624f7fcd23ed1a6de244514ef5b",
+      "identity_key": "h1_88375c1aa0d92089e5e2b2b35d5c0a0ed4b8e48d0f810a9f3f90757b39ee90cf",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -20654,7 +19342,7 @@
     },
     {
       "public_id": 110,
-      "identity_key": "h1_52f3fa147631b6bd981d66bede6608addc8953d7a22c7b23fae9aad0a83ef091",
+      "identity_key": "h1_29cc7b78bbbd0cd6ad310b40eece021f152945f1d6ebd42e07dcd951b275cf34",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -20981,7 +19669,7 @@
     },
     {
       "public_id": 111,
-      "identity_key": "h1_a5560e70148d13e878344717bec2326e19407086c7c7fdb4a00ef39329447c5a",
+      "identity_key": "h1_1a5b72c5bf5846ffeb74ffb4ccf5d4d86426acc6137f3289d21ac0942b971415",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -21151,7 +19839,7 @@
     },
     {
       "public_id": 112,
-      "identity_key": "h1_59148c8373b997a46c1673da37ee3c7f5a7716c7197ecfcc8fdb0be12199f690",
+      "identity_key": "h1_803e517275cfb5fc0325dfc940f6c9bdc486f0afeb4c51affc14ff132f40b1ec",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -21321,7 +20009,7 @@
     },
     {
       "public_id": 113,
-      "identity_key": "h1_ebe2884a606c1547f36c9e6a1b2bc9efc25d71e110b5a62ab939058aa67c5069",
+      "identity_key": "h1_3affa23c3b78221cc34a961ec30a1b2c4763a8c2143f759602cc3e1f3bf74a7f",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -21491,7 +20179,7 @@
     },
     {
       "public_id": 114,
-      "identity_key": "h1_1dfcbb78b810cea1396c33ab652bc095a87a313b3a16a7bbe3b7b643726be2de",
+      "identity_key": "h1_608b55b6ebbee8b1ae57c30804025a40a87b6a2af6bae94d0c91182a5e3beea5",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -21661,7 +20349,7 @@
     },
     {
       "public_id": 115,
-      "identity_key": "h1_94a06aab433cc59370feac39ad53b6ff88816e66bf1de88d9f0e01f50d950668",
+      "identity_key": "h1_e7e775c3f24f5a3a52886f7f7257a7c9b2ff6fc662fcd6bc21054de02283104a",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -21830,178 +20518,8 @@
       "swordland_role": ""
     },
     {
-      "public_id": 116,
-      "identity_key": "h1_981a2f2197799741c80027965983ea5bce3f5868474d25c10cf119cbac622fc9",
-      "origin": "BRO",
-      "membership": "current",
-      "profile": {
-        "player": {
-          "nick_name": "Lilynx",
-          "kid": 671,
-          "power": 261090307,
-          "town_center_level": 65,
-          "kills": 3468923,
-          "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/10/04/l21BvJ_1791150793.png",
-          "alliance": {
-            "abbr": "BRO",
-            "name": "Brotherhood",
-            "rank": 3,
-            "rank_label": "R3"
-          }
-        },
-        "ranks": {
-          "power_rank": 349,
-          "kills_rank": 447,
-          "town_center_rank": 242,
-          "migrant_score": 865021,
-          "migrant_rank": 247,
-          "mystic_trial": 1532,
-          "mystic_rank": 285,
-          "leaderboards": [
-            {
-              "name": "Personal Power",
-              "value": 261090307,
-              "value_label": null,
-              "kingdom_rank": 349,
-              "kingdom_rank_label": "#349",
-              "rank_type": 3
-            },
-            {
-              "name": "Kill Count",
-              "value": 3468923,
-              "value_label": null,
-              "kingdom_rank": 447,
-              "kingdom_rank_label": "#447",
-              "rank_type": 4
-            },
-            {
-              "name": "Town Center Level",
-              "value": 65,
-              "value_label": null,
-              "kingdom_rank": 242,
-              "kingdom_rank_label": "#242",
-              "rank_type": 5
-            },
-            {
-              "name": "Migrant Score",
-              "value": 865021,
-              "value_label": null,
-              "kingdom_rank": 247,
-              "kingdom_rank_label": "#247",
-              "rank_type": 19
-            },
-            {
-              "name": "Mystic Trial",
-              "value": 1532,
-              "value_label": null,
-              "kingdom_rank": 285,
-              "kingdom_rank_label": "#285",
-              "rank_type": 20
-            },
-            {
-              "name": "Coliseum",
-              "value": 10355,
-              "value_label": "36-5",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 21
-            },
-            {
-              "name": "Forest of Life",
-              "value": 20233,
-              "value_label": "24-3",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 22
-            },
-            {
-              "name": "Crystal Cave",
-              "value": 30188,
-              "value_label": "19-8",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 23
-            },
-            {
-              "name": "Knowledge Nexus",
-              "value": 40139,
-              "value_label": "14-9",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 24
-            },
-            {
-              "name": "Molten Fort",
-              "value": 50199,
-              "value_label": "20-9",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 25
-            },
-            {
-              "name": "Radiant Spire",
-              "value": 60418,
-              "value_label": "42-8",
-              "kingdom_rank": null,
-              "kingdom_rank_label": "100+",
-              "rank_type": 26
-            }
-          ]
-        },
-        "heroes": [
-          {
-            "name": "Long Fei",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50024.png",
-            "position": 1
-          },
-          {
-            "name": "Sophia",
-            "level": 80,
-            "stars": 4,
-            "star_label": "4-Star (Tier 2)",
-            "icon": "/assets/icons/hero_headpic_50030.png",
-            "position": 2
-          },
-          {
-            "name": "Rosa",
-            "level": 80,
-            "stars": 5,
-            "star_label": "5-Star",
-            "icon": "/assets/icons/hero_headpic_50022.png",
-            "position": 3
-          },
-          {
-            "name": "Yang",
-            "level": 80,
-            "stars": 3,
-            "star_label": "3-Star",
-            "icon": "/assets/icons/hero_headpic_50031.png",
-            "position": 4
-          },
-          {
-            "name": "Thrud",
-            "level": 80,
-            "stars": 3,
-            "star_label": "3-Star (Tier 4)",
-            "icon": "/assets/icons/hero_headpic_50025.png",
-            "position": 5
-          }
-        ],
-        "gov_gear": {
-          "hidden": true,
-          "message": "This player is hiding their governor gear.",
-          "items": []
-        }
-      },
-      "swordland": false,
-      "swordland_role": ""
-    },
-    {
       "public_id": 117,
-      "identity_key": "h1_a4c87709395816c9692217d9ad1c54733582fa08b9197a00fc078d2df2d4f026",
+      "identity_key": "h1_a92afa9b718c65fbf5483cdf633d495a8bb879a69ba7faeba5524f4ab1eb484f",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -22171,7 +20689,7 @@
     },
     {
       "public_id": 118,
-      "identity_key": "h1_c9e3b72b10dc15e54a5e5d5f19468c49fc7a8459e138b6bff3b664e3770b10e7",
+      "identity_key": "h1_2ae8e5922470e423909f2d20e9e7abf3b7829e68e9b90fb4d2fe220c2154cf43",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -22341,7 +20859,7 @@
     },
     {
       "public_id": 119,
-      "identity_key": "h1_f4449db5b910c267765b1f5bedd9f5b8180f8f4074ed6a082053d4be89934a24",
+      "identity_key": "h1_9cfa6880d46468d496abe504b4e4b364958e014502049dae80aaf0c775ed19e6",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -22511,7 +21029,7 @@
     },
     {
       "public_id": 120,
-      "identity_key": "h1_6bd2adb65f8157addee0ef01ec1b688611c624a41646cc36d289291fc905136f",
+      "identity_key": "h1_8d29245d8733f237cac9646752a44d3c874d7533ff860705c25b15b4fcf69206",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -22681,7 +21199,7 @@
     },
     {
       "public_id": 121,
-      "identity_key": "h1_eace2d4f165e6b0183f1fdd93793058ff7e0a5370703245817befccd27d814c2",
+      "identity_key": "h1_5fcfcf02f44d7eb29832fee55af32e6d1517e759d00d1e51191cb94e9f889b4d",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -22851,7 +21369,7 @@
     },
     {
       "public_id": 122,
-      "identity_key": "h1_6cddea8199a5f56663513e5ba5bc78c21830de328078e36dca8967c4c223ff79",
+      "identity_key": "h1_1acc831e979059b0bcdf451faf240ef98f223b44425c047b139f9ea3b78c370a",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -23021,7 +21539,7 @@
     },
     {
       "public_id": 123,
-      "identity_key": "h1_4653ee6b0055f60323e68534283fdaa7400df82dfe6210f568d7846ba4565f77",
+      "identity_key": "h1_e670d2678fd93a0a414c7967d5e2c15b98de724908a06e8fccf65b3969052110",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -23348,7 +21866,7 @@
     },
     {
       "public_id": 124,
-      "identity_key": "h1_75b6ca170851c52165a7ae0db900247506d73bce18a40dfeb6cd559c414476cc",
+      "identity_key": "h1_3e52b46a5e5d1c7e3bbd2258ae0ba72caad5ebcef115feaeb5caaf7b9d79da65",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -23518,7 +22036,7 @@
     },
     {
       "public_id": 125,
-      "identity_key": "h1_2b10ef4a4f3514b056207608d797e0b99962f36f8e1f1d672d16425f37aa4e68",
+      "identity_key": "h1_e5f97f0ccfd87500969e3a5ec4dfa0a7533e299daef6cd5f62f1b7e2ad3c6bed",
       "origin": "BRO",
       "membership": "current",
       "profile": {
