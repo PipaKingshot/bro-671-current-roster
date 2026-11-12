@@ -326,11 +326,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_f251c8a57e975403e48e08cb94ad3c41040d00fed524794877beb2f380062e89"
     },
     {
       "public_id": 2,
-      "identity_key": "h1_6fdbc34da719500c61945816d764c23f1adce0a903dfdf4c14f1295e5b31f2ef",
+      "identity_key": "h1_a17ce23692413e44611cbb8b049e2d16d43568fc0d1bd116b4beaff79cc64245",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -664,11 +665,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_44792842c3b72e566bb249d978ffc98f683ea23b20f56308b79a4b9e783f573d"
     },
     {
       "public_id": 4,
-      "identity_key": "h1_331866b57592fde5b801b8b5323e8fefbc82f0504dcabacb59152a8f2eb9b5fe",
+      "identity_key": "h1_b04534144c05b455edda2fbbc7539f1c0b6e049c7742fab3975cb3d14127e8de",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -1002,7 +1004,8 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_1a68c2ca450ef386724ef01631c5ef583aa5e2c27ad75b5543ee9fde11960970"
     },
     {
       "public_id": 6,
@@ -1170,11 +1173,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_28158ef25838d74cde4d79cbcc5c14bc02f2c3e7572ab273dc2443eed199a2d2"
     },
     {
       "public_id": 7,
-      "identity_key": "h1_237ff1c8c493e07a83d51480b0d572922d3501e53b14f9dbd49ecde4c3f51d91",
+      "identity_key": "h1_6dcb9fe81f18059718d91063429471626c36adf8097c4737b2cd7d5941c338fb",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -1508,7 +1512,8 @@
       },
       "swordland": true,
       "swordland_role": "joiner",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_845931a34a646df0f065f31e0c4deb8775aadd3724e861e52d2f7c31c9a42b69"
     },
     {
       "public_id": 9,
@@ -1676,11 +1681,12 @@
       },
       "swordland": true,
       "swordland_role": "joiner",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_594a6b3bcbaf14fbf54ff72dd7011aafbd8957492027294dad6cd6b9ddaccf37"
     },
     {
       "public_id": 10,
-      "identity_key": "h1_5d0b5a0b9ec02915a2a12346804ed72dafb9af3ee284e9ae0cb665db7521200e",
+      "identity_key": "h1_255c0fddb30348719c677ad9739f33835d82e8dcbc8b1480dc7216343e1a72d4",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -2075,7 +2081,8 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_ca613c5336cab78145689df44b5062af5efc93e7ccb2acba60d81831095dff09"
     },
     {
       "public_id": 12,
@@ -2243,7 +2250,8 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_15469874f3a3f76c1929be3f81e4fcd68dd3dbe7b8d201ac4efe087a40430eb0"
     },
     {
       "public_id": 13,
@@ -2411,11 +2419,12 @@
       },
       "swordland": true,
       "swordland_role": "joiner",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_4a079545f1b41e496295f9147e9247df3ecc4eef5ca17f0d060e2595afb94bf4"
     },
     {
       "public_id": 14,
-      "identity_key": "h1_19aa14da4b6ac4ef09c30af97bfd447a8b86c487e9b40ffb5841dff93dab8c35",
+      "identity_key": "h1_8bb95a86c01b2f4212fbc87b12b75303eea20a69b9e57952c2ed3f796819086a",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -2749,11 +2758,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_b9fa84bf2bd459a35a17570d4341a009109550c5c57b22e1b208656c877f725d"
     },
     {
       "public_id": 16,
-      "identity_key": "h1_a88d3c21bc92768a2642180c507140547539cd501902be671f63b7a9c6482a02",
+      "identity_key": "h1_144b7afcfb3238e9c8e33f8f8dfff332bb526df6c01972ed87e0a0184b652ab5",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -2923,7 +2933,7 @@
     },
     {
       "public_id": 17,
-      "identity_key": "h1_63b68b4502eef8f3aa0d1cebbbedf345acf434acda0a8a471e0b8fe56c0a59f7",
+      "identity_key": "h1_ba2459749e31d72f02b6512bcdc3215d59b41576e802b7f60afa0d0d93282e3c",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -3093,7 +3103,7 @@
     },
     {
       "public_id": 18,
-      "identity_key": "h1_edbd4b221b89ac96b520b97502de84266f65db96073bf9dc26ed01d3f807f970",
+      "identity_key": "h1_390199e41b2b3f84e4c20f421af226ce07a98fa726e9deabd58416983ad10539",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -3263,7 +3273,7 @@
     },
     {
       "public_id": 19,
-      "identity_key": "h1_815f632b939ed79494bab79b50a50589d875fb2cfdf0543d16fcc00edade5432",
+      "identity_key": "h1_c66ce9add01112b89fab091a9532a93ba5c39be49daa2491065ff5e3bf6e9bd3",
       "origin": "INK",
       "membership": "current",
       "profile": {
@@ -3433,7 +3443,7 @@
     },
     {
       "public_id": 20,
-      "identity_key": "h1_b75b7ae5e8f3896f930a0b936b1222404cf57121b1798bcbf5ed7786ea661537",
+      "identity_key": "h1_e7c7a68402636cd10e42f2c40a05412017a7c40e1c7a15a6cd15b31cf1d43174",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -3767,11 +3777,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_2b1300087b3dacb211beb071436424c53551b33f9887fe46d8bb6bfaed8f7f84"
     },
     {
       "public_id": 22,
-      "identity_key": "h1_f5fd48e9e663f3eeb159a04ee43762d2d371992cc5d2d2871409d3c250b079e1",
+      "identity_key": "h1_3262a54a860c372f104bdfe81da5b2743119ab76c685ca0b74d0d15da10129b4",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -4262,11 +4273,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_345a874a85fc68081e7d31464b8f06e6c77c346560511b58cb50ef76e7fcc35a"
     },
     {
       "public_id": 24,
-      "identity_key": "h1_64537befb46d69d2db7233d70d9dd9cdb6b946a6af70af9007b3976895856f2a",
+      "identity_key": "h1_3f918ef9f129d453ab1faff7ac2e89719e2ae50db8329cb3e513b32086ed781f",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -4436,7 +4448,7 @@
     },
     {
       "public_id": 25,
-      "identity_key": "h1_81d30b8c003958b1ccdf8840368fc255863e7fa1e41f99aea61fd9a99eb034b7",
+      "identity_key": "h1_b328dc0265d15e869cc191353ddb752a561b47e93186f10ac0cb5660ba31e7d8",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -4606,7 +4618,7 @@
     },
     {
       "public_id": 26,
-      "identity_key": "h1_3256051eb4e555592a7e18962628172aa1cc3a5c4e75efbb214132b1e03a497a",
+      "identity_key": "h1_73d0bf3e81b0b8825c3d8233228ac6a8fc9524e8aaedd955d9c3a5a924310dd0",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -4776,7 +4788,7 @@
     },
     {
       "public_id": 27,
-      "identity_key": "h1_b1dffc5be8fa385c69cd685c545facc3589c64285092046c4e1f2fb66afb0529",
+      "identity_key": "h1_f3507f08308cce0e419f4f38070eafa7701cf0136956afe218783a07c741eac3",
       "origin": "INK",
       "membership": "current",
       "profile": {
@@ -5103,7 +5115,7 @@
     },
     {
       "public_id": 28,
-      "identity_key": "h1_65ff4d6f1219fe36c897e42dd35e510c7d444b524935b87260b723b29a475302",
+      "identity_key": "h1_0bd082b242985be05f0612dc9e5f309076e2bdc8cacc55a893b18cad81b657c6",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -5437,7 +5449,8 @@
       },
       "swordland": true,
       "swordland_role": "joiner",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_3947195efb1fbbc05ce0782f10a44cf3bb9b115e905201912dac78103fd58f0f"
     },
     {
       "public_id": 30,
@@ -5605,7 +5618,8 @@
       },
       "swordland": true,
       "swordland_role": "substitute",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_964cab8fb9a034fed923ff76fc06d920941d18ca1de50213ce61b00c3bddb991"
     },
     {
       "public_id": 31,
@@ -5773,11 +5787,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_08f85b09e7a230374c81fe4b1f6d404322bf5a9ce166be20c8563b51594e1e21"
     },
     {
       "public_id": 32,
-      "identity_key": "h1_3d15c0c2af4e096e9cd8d780fc0551bef70044aeb6ac75466ba1144076ab34ee",
+      "identity_key": "h1_179f50e6d6aebdc3e27333e78d723b966c58181907d434e3cd585530870d19ae",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -5947,7 +5962,7 @@
     },
     {
       "public_id": 33,
-      "identity_key": "h1_148ba131f6962dff322188e9f27d5e0086d4f925f85e8915c6b25bc84a748b8c",
+      "identity_key": "h1_e187b1e8cae69aa87ed24d2a015078e5928903e4022d80bfc12502e37c940745",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -6117,7 +6132,7 @@
     },
     {
       "public_id": 34,
-      "identity_key": "h1_f198784a52297586bdae447da83283363151373daf11e13bbeda273e67b8cfff",
+      "identity_key": "h1_5d565e7d4b8da6e96378dce9cb25b740fb507de93418b6c02d47e4de0d8e1afc",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -6451,7 +6466,8 @@
       },
       "swordland": true,
       "swordland_role": "substitute",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_762f74fec5b20446c695bf61031a6caa9dced791480c60317e1a10c69c50140f"
     },
     {
       "public_id": 36,
@@ -6619,11 +6635,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_df824671bd1930485e315e3757edf5f4444085123c417a94705060b352347a6c"
     },
     {
       "public_id": 37,
-      "identity_key": "h1_fe700614c8b1b3216a4168d3702cdcee99391a77910f712d22a630d62a3b3bfc",
+      "identity_key": "h1_8e590c8e2bd7ad92afaecfd9dd0a76e19f446e125bb48a483d7246d76105a6bd",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -6793,7 +6810,7 @@
     },
     {
       "public_id": 38,
-      "identity_key": "h1_05185c9d92db74c3a9077aa003d538a84e1524c80a39856b36c8e5afccac8a84",
+      "identity_key": "h1_aac2b5646054801965e7d18e9a10e357078ec9bdc51953321ff6830b05821da5",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -6963,7 +6980,7 @@
     },
     {
       "public_id": 39,
-      "identity_key": "h1_83d8899c47f28c98dd5c5c62c50a2ba77ba4400a93231ccccf8e435c79d65902",
+      "identity_key": "h1_a19b695f967332008f6b490e02319d6d67caa589304d2fe6f6e9a694043b3523",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -7133,7 +7150,7 @@
     },
     {
       "public_id": 40,
-      "identity_key": "h1_1185024a4b85340ac1b9dde5ee698fa05c980f62e646b0474c61d19419217b92",
+      "identity_key": "h1_dd2534d7e195fb6fc2fe49a10a2ed22aa2980448b08b6c4111bc1c62c38a31f1",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -7303,7 +7320,7 @@
     },
     {
       "public_id": 41,
-      "identity_key": "h1_c5dbc946ca64fd2f9ed70ff1103df8c397f1876d6fea41200ac3083a9012a5c0",
+      "identity_key": "h1_6ac6a97e6c6d091861e7fc6ae3ab0c7c78380ffe8fca4d179eb20e04a02bb4a5",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -7473,7 +7490,7 @@
     },
     {
       "public_id": 42,
-      "identity_key": "h1_9b0610598fe4237ce76d81e267efb84d31309cc50db2ab6c547d76214ac7d7dc",
+      "identity_key": "h1_62fc9021dd320db468f72dfc51f464947764d56c36cf2ee6586e6797ff5b2603",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -7643,7 +7660,7 @@
     },
     {
       "public_id": 43,
-      "identity_key": "h1_51304a21926c9d52d369d005afb14c887e89fd4c6f64573e1064f6b0679ebc06",
+      "identity_key": "h1_32a54e552826efdfdcba89a2040c0edf205f3b140af7d4bf5fb7fe9e5d112b49",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -7970,7 +7987,7 @@
     },
     {
       "public_id": 44,
-      "identity_key": "h1_4f2c969bd35ce1bc35949e50db3b37a87fdcb718e2e3e8e73e973b6e5aad6279",
+      "identity_key": "h1_6ccdaeaf1dccc481a5322e849fb5cc807492d63fcca8db6ef7b46317b8884b35",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -8140,7 +8157,7 @@
     },
     {
       "public_id": 45,
-      "identity_key": "h1_0355317f77485c372bdee843ce7b98ade94d7915a07a2218f8a817328d4b0c42",
+      "identity_key": "h1_550bbf9da68e26a6d1192fe66898eb476e47a61bde03428a37bcb016084f78ba",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -8310,7 +8327,7 @@
     },
     {
       "public_id": 46,
-      "identity_key": "h1_6daf2a61d81a7f96576bc3de9c5f772fac2b02e790eb48693359965ab3d85c19",
+      "identity_key": "h1_f7637b68659a46035c1d92150e137930d67378a4c955ec1c729820a289ea780a",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -8644,11 +8661,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_d9ece8a2e454f9bda8006c54e37734dbd98b689c13be063f1bb9b69b086d857c"
     },
     {
       "public_id": 48,
-      "identity_key": "h1_bfea02a600131619604aae2fef2f434580e0abc42191251e0b090af312c29e00",
+      "identity_key": "h1_7bf4a83d3c3e2ae028fe6cba2b8ac34e162718708f0aee44f7543bb7f04b76c5",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -8818,7 +8836,7 @@
     },
     {
       "public_id": 49,
-      "identity_key": "h1_dfea0fdbdc7dde10990c60789b415fdf81df8938c97d71860d468c7b2461bde5",
+      "identity_key": "h1_94c7b681f98508d462169debffe48a87771a343fa1d7ca1ffb8adf5b483f5663",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -9309,11 +9327,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_4965c1e4346ae34163101e3dade3db027e9a2b7c75c03b96b5c509a15883d8d4"
     },
     {
       "public_id": 51,
-      "identity_key": "h1_4bf7d9fa2419a3e132a0b77ab6b7863880b28150b560fe985d5a92beef65f2e8",
+      "identity_key": "h1_c2a457f78a87aef44fbce19234b054ad9eb40277e241bcba21ab617da5ec115f",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -9483,7 +9502,7 @@
     },
     {
       "public_id": 52,
-      "identity_key": "h1_bda64610a4b95f03324869d5bb29c0b5a22faacf85377d80299d3409e871ed0b",
+      "identity_key": "h1_7d3c72b1b8882a448fd347d5c8f4800b71565b94c39e1f8537cf9e95fcf1ad43",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -9653,7 +9672,7 @@
     },
     {
       "public_id": 53,
-      "identity_key": "h1_44648c5971cbdb0c3ec22fcac137cf820348e5577739cd18097ba63235f0a612",
+      "identity_key": "h1_87a9b00f16783872f8ca2bd41deb633518965f9a3737a00ab085e4de8f8aa4b8",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -9823,7 +9842,7 @@
     },
     {
       "public_id": 54,
-      "identity_key": "h1_77b57877273a429713e52a173d3a4b9afae0dd368fe71de306ac4471569f3e7e",
+      "identity_key": "h1_f1457739a38bef506e086ef95952cb806c2887d124642d65214643033d77ecb6",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -9993,7 +10012,7 @@
     },
     {
       "public_id": 55,
-      "identity_key": "h1_9122544b513d9b55748e8f37c5fd8a895c9c501b6afbb8e8074b4bb2e2406a69",
+      "identity_key": "h1_b6b4a7ed2bdd8b9f2d75b5bd5f748f5ca1060abf12efb41ff8c92c506568fa31",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -10327,11 +10346,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_75d5baef157ee5bf9906705b47e01bc54aceddf973bed4c834a7bc1a523701d3"
     },
     {
       "public_id": 57,
-      "identity_key": "h1_8bfff69d18691d2e96cd6cd8cec397239f46f0080c17747bccdc24bf14b57a90",
+      "identity_key": "h1_8868c1989816c398cecbaf840dd0c9cb216f95ecefe027026af5346f1bd86651",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -10501,7 +10521,7 @@
     },
     {
       "public_id": 58,
-      "identity_key": "h1_ff8174ad146f5faeed8a2d6634c7453df6818d30c1052068c365cc629f982e0a",
+      "identity_key": "h1_a7a9a08ffad81676a33e14af14ced6def3dd091e08d39026ffa99822ff03bbc6",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -10671,7 +10691,7 @@
     },
     {
       "public_id": 59,
-      "identity_key": "h1_f069aebfceb76a770a9a3aeaf28bf035f72635278cd7f7316aa5524d379d11d0",
+      "identity_key": "h1_98b133f68fad7e748f319812ba4c625bde342b4d735809e5935e907235aed06f",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -10841,7 +10861,7 @@
     },
     {
       "public_id": 60,
-      "identity_key": "h1_4f23527cc4a499393c291cd1ca94acd99a5fbcd1a6452e6d87666e5168baa800",
+      "identity_key": "h1_37281c0ae54fa9c0deaed9a53144ae5c8d167e3f4beaf7edca7d54dcd366150a",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -11168,7 +11188,7 @@
     },
     {
       "public_id": 61,
-      "identity_key": "h1_ad118a5aa18893b001717143aa06ec4ad302dc9a8119f8af14d2dc99d38f1404",
+      "identity_key": "h1_136a81b4336cf7f89247670f6dea4b7342712638b75332607c5f2482f8635529",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -11495,7 +11515,7 @@
     },
     {
       "public_id": 62,
-      "identity_key": "h1_efd988552c99023fe3276d30ef80d0ac1c74d037862a72d5400089edb00ce215",
+      "identity_key": "h1_b371ca0f36717cdced027e58dd46c53365924e05095707040c7ddfc1e5866eb2",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -11822,7 +11842,7 @@
     },
     {
       "public_id": 63,
-      "identity_key": "h1_1c72e1ed9b296f4e03fc600fe28e627c8b13676dad36e9c1123ff57c5ded06b8",
+      "identity_key": "h1_b02f39b98c90f56d7557c5831701ac19b959a1fee1cbe04b381ffed3aa0bbdb4",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -11992,7 +12012,7 @@
     },
     {
       "public_id": 64,
-      "identity_key": "h1_df7c5f36aecb32a1cec75a92ae154cc272f9675b11e277a17e711640bedac20f",
+      "identity_key": "h1_37fb9040171a48b2b2848aa8999a00148abc4bddb4abcdd00a1d2d7ce4e554ec",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -12326,11 +12346,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_124bf8a27aed04b6e4d6700188d53452180692ceabf5ea8c77e5bddf1e6d1d10"
     },
     {
       "public_id": 66,
-      "identity_key": "h1_64a8cba0cbd81af0a2db6e2fc3161176e9d6d69fce29380b23bd990a12470383",
+      "identity_key": "h1_f64db63657a0bf373d9ab062154e44338b3d2a54c8ee21300b57178ea45a516c",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -12725,11 +12746,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_71eab8447a99cef5a5f083914e0e97efc2ace6e68de5c6380f1cb4f67dd61e81"
     },
     {
       "public_id": 68,
-      "identity_key": "h1_3cd6e75d18dfe3d75edda07303e08ae908c36c748a0d3db554e1174d79cccbaa",
+      "identity_key": "h1_5a1f04516f2ae13b781bc2e522f8abb55e3a7ca87b569036fd400e7edff33ce1",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -12899,7 +12921,7 @@
     },
     {
       "public_id": 69,
-      "identity_key": "h1_f5a91134ae38840e3c5250e1bbd5e657c9949d289fc10f795c604f4536be3919",
+      "identity_key": "h1_4f23ff5aa686c9f0c33383d893bcd6226a30bffb732f12e02e67af3e573faec7",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -13294,7 +13316,8 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_a2da8f4c7c24cddcb8fd9d0b16b7197db37f23f73a13762a514bcc1518023735"
     },
     {
       "public_id": 71,
@@ -13462,7 +13485,8 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_1ffd03db9609a84562b7144b66fce003df09676bce47fecb69535e10463f8110"
     },
     {
       "public_id": 72,
@@ -13691,11 +13715,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_c8e21c4a943d38985815b929eac4c644bb5698cb4f1659a4d3e1ff093f66e7ee"
     },
     {
       "public_id": 73,
-      "identity_key": "h1_4795afc8f0736a85a299a6e208993937271500a892b9c0e0bc9678d3407abd10",
+      "identity_key": "h1_5bee4c37cb153926fb64931db1daaa9bb07453f5c61b37fa9bdd58bacb66e0f8",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -14029,7 +14054,8 @@
       },
       "swordland": true,
       "swordland_role": "substitute",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_0be75c60b1b1eb98c027750ea9eb90c964fac6123cb6b470b13e88e6f204d190"
     },
     {
       "public_id": 75,
@@ -14197,11 +14223,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_ea25a21b2fb249fc53d8a1de3604556fae99c929a40891301e1022a883f7d643"
     },
     {
       "public_id": 76,
-      "identity_key": "h1_f390c7ec95019168c8cfe5a54c566883cb4a03499fa706b3bb6905655cc5ea76",
+      "identity_key": "h1_71a1de1b8f4f76fa27e335fd5cde9a1eb10a6561b13a4ec7c90404ce67f40683",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -14371,7 +14398,7 @@
     },
     {
       "public_id": 77,
-      "identity_key": "h1_f0ce4d58da86bc53988e3e6c146e813c641b7596a2e3ebdb406a68a628759ddb",
+      "identity_key": "h1_cfb24d70055cabafa795b1cb17f251bddf1384dd9587af1783624100db5515b2",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -14541,7 +14568,7 @@
     },
     {
       "public_id": 78,
-      "identity_key": "h1_b59349c3fa5eb7cd5ff3fdf5629cced5c526f7e75fea4cd71a39c4efa335cf92",
+      "identity_key": "h1_1e1a1ab8dd476e784ca43c9562cbd9a61b9a496291517236f4706ddd1d413bbf",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -14711,7 +14738,7 @@
     },
     {
       "public_id": 79,
-      "identity_key": "h1_864709f8b3739751c1cc123e6467c1dec5dd7d510f0578e997080b0d6b2a6473",
+      "identity_key": "h1_9f80641d19fdfd95b958907a373dd35313e8f0e09bb5ae6cbec4af507b763549",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -15045,11 +15072,12 @@
       },
       "swordland": true,
       "swordland_role": "substitute",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_4904d8425f06998dd902ef9d7ad91010665f17c8d6af5216ea307bdb2613a824"
     },
     {
       "public_id": 81,
-      "identity_key": "h1_04f3708aea03513aae438d444bbe675a9a6649b28c7b67dbcf94e9607c857012",
+      "identity_key": "h1_704af4239101f24d761e0da59fc6160075d20e4782f54cb10610a9d5e285707f",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -15219,7 +15247,7 @@
     },
     {
       "public_id": 82,
-      "identity_key": "h1_8b7d028db2b505954e25b4ea8f80350dc1000d8c89a158e76de298e1a23c623e",
+      "identity_key": "h1_0cabee22a5db7d87940a39e57509ccba4337ae3a149a22d6cc6f8b440834a00a",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -15389,7 +15417,7 @@
     },
     {
       "public_id": 83,
-      "identity_key": "h1_464e12a78916fea4f42a078e5294506790a612955ea90174a45f56f66ec29e7e",
+      "identity_key": "h1_9821e62f602eef48e85c17d94934c2a176992ebe5ef47720ead5c74ca981cc41",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -15941,7 +15969,8 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_6be5b16d96d1776b572f9018d7e6834aed8d8665257514937b0e1c0e3b057e46"
     },
     {
       "public_id": 85,
@@ -16109,11 +16138,12 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_47e51267c2601dea51a70793a7e4915371719e04f3ee0d63db142d3ad4eb7650"
     },
     {
       "public_id": 86,
-      "identity_key": "h1_fb6657bb19e3bd4489480bd644c0f1bc33213790e4a552ee52c7faf12dd89bdf",
+      "identity_key": "h1_ed124a819c97418c4fb0d672c06bc609fd32e58a249aa4ac19b4f5f0d284a25b",
       "origin": "BRO",
       "membership": "current",
       "profile": {
@@ -16665,7 +16695,8 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_914e727fbbbba6f480d2a449ebfca19f8140b3e6d2141bbce8328b2ba8ae24f6"
     },
     {
       "public_id": 88,
@@ -16793,7 +16824,8 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_ac1a740e7aee1eafa49cf175070bdc62d8dc9c9ff558c3fee0e89ebae67b9e4c"
     },
     {
       "public_id": 89,
@@ -16905,7 +16937,8 @@
       },
       "swordland": false,
       "swordland_role": "",
-      "membership": "former"
+      "membership": "former",
+      "identity_key": "h1_7994e63a7392178009d0ff4e16f2f7d7f1e87e472e8d25c2b6ee443cf8ab1809"
     },
     {
       "public_id": 90,
@@ -17073,7 +17106,8 @@
       },
       "swordland": true,
       "swordland_role": "substitute",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_bb2eb9a98e3c8588c8e2ebdfa4bde22b68574aa1f5b056de150871ac13193928"
     },
     {
       "public_id": 91,
@@ -17241,7 +17275,8 @@
       },
       "swordland": true,
       "swordland_role": "joiner",
-      "membership": "guest"
+      "membership": "guest",
+      "identity_key": "h1_d7830a21a68cbd5672dd2ea27557e675070ac1c572e74077a3488aacd379bc71"
     },
     {
       "public_id": 92,

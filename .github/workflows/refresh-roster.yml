@@ -22,6 +22,7 @@ jobs:
       - name: Refresh privacy-filtered roster
         env:
           MIGHTPULSE_API_KEY: ${{ secrets.MIGHTPULSE_API_KEY }}
+          ROSTER_IDENTITY_KEY: ${{ secrets.ROSTER_IDENTITY_KEY }}
         run: python3 scripts/refresh_roster.py
 
       - name: Validate public data

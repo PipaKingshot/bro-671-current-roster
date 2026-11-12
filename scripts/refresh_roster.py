@@ -151,9 +151,9 @@ def unwrap_member(member: dict) -> tuple[str, dict]:
     return str(governor_id), raw
 
 
-def identity_key(api_key: str, governor_id: str) -> str:
+def identity_key(identity_secret: str, governor_id: str) -> str:
     digest = hmac.new(
-        api_key.encode("utf-8"), governor_id.encode("ascii"), hashlib.sha256
+        identity_secret.encode("utf-8"), governor_id.encode("ascii"), hashlib.sha256
     ).hexdigest()
     return f"h1_{digest}"
 
@@ -170,6 +170,9 @@ def main() -> int:
     api_key = os.environ.get("MIGHTPULSE_API_KEY", "").strip()
     if not api_key:
         raise RuntimeError("MIGHTPULSE_API_KEY is not configured")
+    identity_secret = os.environ.get("ROSTER_IDENTITY_KEY", "").strip()
+    if not identity_secret:
+        raise RuntimeError("ROSTER_IDENTITY_KEY is not configured")
 
     existing = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     payload = api_get(api_key)
@@ -193,13 +196,20 @@ def main() -> int:
 
     next_public_id = max((int(row.get("public_id") or 0) for row in existing_rows), default=0) + 1
     refreshed: list[dict] = []
+    superseded_public_ids: set[int] = set()
     added = 0
 
     for member in members:
         governor_id, raw_profile = unwrap_member(member)
-        key = identity_key(api_key, governor_id)
+        key = identity_key(identity_secret, governor_id)
+        transitional_key = identity_key(api_key, governor_id)
         name = raw_profile["player"]["nick_name"]
         prior = by_identity.get(key)
+        transitional_prior = by_identity.get(transitional_key)
+        if prior is not None and transitional_prior is not None and transitional_prior is not prior:
+            superseded_public_ids.add(int(transitional_prior["public_id"]))
+        if prior is None:
+            prior = transitional_prior
         if prior is None and len(by_name.get(name, [])) == 1:
             prior = by_name[name][0]
 
@@ -229,7 +239,7 @@ def main() -> int:
     guest_count = 0
     for prior in existing_rows:
         public_id = int(prior["public_id"])
-        if public_id in current_ids:
+        if public_id in current_ids or public_id in superseded_public_ids:
             continue
         row = dict(prior)
         if row.get("origin") == "INK":
